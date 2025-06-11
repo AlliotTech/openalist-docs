@@ -45,9 +45,9 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.MY_TOKEN }}
+          deploy_key: ${{ secrets.MY_TOKEN }}
           # external_repository: alist-org/alist-org.github.io
           publish_branch: gh-pages
           publish_dir: docs/.vuepress/dist
-          cname: alist.nn.ci
+          cname: alist.iots.vip
 
