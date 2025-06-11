@@ -185,7 +185,7 @@ It is some error codes during the use of `AList`, and how to solve them (network
 
 <br/>
 
-<Badge text="A" type="info" vertical="middle" />：The newly created `OneDrive` user account does not take effect in real time, Delay takes effect, wait for a few hours and try again [**Case**](https://github.com/alist-org/docs/discussions/189#discussioncomment-5928892)
+<Badge text="A" type="info" vertical="middle" />：The newly created `OneDrive` user account does not take effect in real time, Delay takes effect, wait for a few hours and try again [**Case**](https://github.com/AlliotTech/openalist-docs/discussions/189#discussioncomment-5928892)
 
 -----
 

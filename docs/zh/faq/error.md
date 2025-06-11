@@ -185,7 +185,7 @@ star: true
 
 <br/>
 
-<Badge text="A" type="info" vertical="middle" />：新建的 `OneDrive`用户账号不是实时生效，会延时生效等待几小时后试试看 [**案例**](https://github.com/alist-org/docs/discussions/189#discussioncomment-5928892)
+<Badge text="A" type="info" vertical="middle" />：新建的 `OneDrive`用户账号不是实时生效，会延时生效等待几小时后试试看 [**案例**](https://github.com/AlliotTech/openalist-docs/discussions/189#discussioncomment-5928892)
 
 -----
 

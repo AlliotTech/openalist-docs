@@ -6,7 +6,7 @@ export default hopeTheme(
   {
     docsDir: "docs",
     logo: "/logo.svg",
-    repo: "alist-org/docs",
+    repo: "AlliotTech/openalist-docs",
     hostname: "https://alist.nn.ci",
     // 移动到 palette.scss 文件中
     // themeColor: {
