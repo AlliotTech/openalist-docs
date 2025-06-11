@@ -68,7 +68,7 @@ star: true
 
 如果遇到验证码等其它问题
 
-- 参考 **https://github.com/alist-org/alist/pull/7024** 这里面的 `更新` 部分的内容
+- 参考 **https://github.com/AlliotTech/openalist/pull/7024** 这里面的 `更新` 部分的内容
 
 <br/>
 
@@ -82,7 +82,7 @@ star: true
 
 如果遇到验证码等其它问题
 
-- 参考 **https://github.com/alist-org/alist/pull/7024** 这里面的 `更新` 部分的内容
+- 参考 **https://github.com/AlliotTech/openalist/pull/7024** 这里面的 `更新` 部分的内容
 
 <br/>
 
@@ -90,7 +90,7 @@ star: true
 
 ### **禁用媒体链接**
 
-- **https://github.com/alist-org/alist/issues/4735**
+- **https://github.com/AlliotTech/openalist/issues/4735**
 
 <br/>
 
@@ -144,7 +144,7 @@ star: true
 
 如果遇到验证码等其它问题
 
-- 参考 **https://github.com/alist-org/alist/pull/7024** 这里面的 `更新` 部分的内容
+- 参考 **https://github.com/AlliotTech/openalist/pull/7024** 这里面的 `更新` 部分的内容
 
 <br/>
 

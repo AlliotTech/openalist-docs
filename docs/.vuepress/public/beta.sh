@@ -3,7 +3,7 @@
 # INSTALL_PATH='/opt/alist'
 VERSION='beta'
 
-URL_PREFIX='https://github.com/alist-org/alist/releases/download/beta/'
+URL_PREFIX='https://github.com/AlliotTech/openalist/releases/download/beta/'
 
 if [ ! -n "$2" ]; then
   INSTALL_PATH='/opt/alist'

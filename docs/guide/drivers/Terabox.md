@@ -65,7 +65,7 @@ Using [**Proxy Url**](common.md#download-proxy-url) to download error
 }
 ```
 
-View specific reasons：**[https://github.com/alist-org/alist/issues/6508](https://github.com/alist-org/alist/issues/6508#issuecomment-2171762705)**
+View specific reasons：**[https://github.com/AlliotTech/openalist/issues/6508](https://github.com/AlliotTech/openalist/issues/6508#issuecomment-2171762705)**
 
 <br/>
 

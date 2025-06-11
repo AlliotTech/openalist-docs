@@ -23,7 +23,7 @@ star: true
 **https://pan.quark.cn**
 
 :::danger
-Due to the speed limit of Quark Cloud,Quick Cloud must use local agents for transmission now,[For details, see](https://github.com/alist-org/alist/issues/4318#issuecomment-1536214188)
+Due to the speed limit of Quark Cloud,Quick Cloud must use local agents for transmission now,[For details, see](https://github.com/AlliotTech/openalist/issues/4318#issuecomment-1536214188)
 :::
 
 ## **Quark Cloud**
@@ -70,7 +70,7 @@ flowchart TB
     click b1 "../drivers/common.html#webdav-policy"
 ```
 
-illustrate：[**alist/issues/4318**](https://github.com/alist-org/alist/issues/4318#issuecomment-1536214188)
+illustrate：[**alist/issues/4318**](https://github.com/AlliotTech/openalist/issues/4318#issuecomment-1536214188)
 
 
 

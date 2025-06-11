@@ -61,7 +61,7 @@ star: true
 我们填写到 **https://alist.nn.ci/tool/google/album** 即可获取我们每个相册的单个目录ID
 
 - 根文件ID（就是相册ID）：默认root，展示全部，若只想展示单个相册，可以填写你想展示的相册ID
-- 在我们填写后下方也会出现一个 **`access_token`** 这个也可以填写到刷新令牌里面前使用和之前获取到的，这两个都可以用 - [解释](https://github.com/alist-org/alist/discussions/3264#discussioncomment-5051171) 
+- 在我们填写后下方也会出现一个 **`access_token`** 这个也可以填写到刷新令牌里面前使用和之前获取到的，这两个都可以用 - [解释](https://github.com/AlliotTech/openalist/discussions/3264#discussioncomment-5051171) 
 
 #### **填写示意图**
 

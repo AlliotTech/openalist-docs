@@ -45,7 +45,7 @@ Go to：**https://alist.nn.ci/tool/dropbox/request.html**
 
 - Redirect URLs：**https://alist.nn.ci/tool/dropbox/callback**
 
-Reference link: [**Click to view**](https://github.com/alist-org/alist/commit/cfee536b96f38e5ba3f3575fab4e89f6c0e1bc5b#commitcomment-119688700)
+Reference link: [**Click to view**](https://github.com/AlliotTech/openalist/commit/cfee536b96f38e5ba3f3575fab4e89f6c0e1bc5b#commitcomment-119688700)
 
 
 

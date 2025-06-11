@@ -45,7 +45,7 @@ star: true
     - It's because the database is building the index. If you are still in the building process, please wait patiently.
     - If the index has been completed, it is caused by turning on [Automatically update the index](#automatically-update-the-index). Please turn off [Automatically update the index](#automatically-update-the-index). If the problem still occurs, please close and restart AList.
     - Or switch the database to MySQL
-- `meilisearch`: I haven’t experienced it in depth yet and I don’t know much about the specific differences. It’s for professionals to use or you can check it yourself. [View PR link](https://github.com/alist-org/alist/pull/6060) , the only thing I know is that you have to [build it yourself](https://www.meilisearch.com/docs/learn/getting_started/installation) to use it. It supports many methods, but there is no daemon and other lazy operations, and it does not support the system [ It relies on Linux systems lower than `GLIBC_2.27`](https://github.com/meilisearch/meilisearch/issues/4022) If it is built on this machine, it will be automatically recognized. If it is another device, you can modify the **meilisearch** field content of the configuration file.
+- `meilisearch`: I haven’t experienced it in depth yet and I don’t know much about the specific differences. It’s for professionals to use or you can check it yourself. [View PR link](https://github.com/AlliotTech/openalist/pull/6060) , the only thing I know is that you have to [build it yourself](https://www.meilisearch.com/docs/learn/getting_started/installation) to use it. It supports many methods, but there is no daemon and other lazy operations, and it does not support the system [ It relies on Linux systems lower than `GLIBC_2.27`](https://github.com/meilisearch/meilisearch/issues/4022) If it is built on this machine, it will be automatically recognized. If it is another device, you can modify the **meilisearch** field content of the configuration file.
   - Daemon：If you want to use it, you can create a new daemon process in the same way as manually starting AList.
   - Download  Url：https://github.com/meilisearch/meilisearch/releases
     - `meilisearch` Docs Url：https://www.meilisearch.com/docs/learn/getting_started/installation
@@ -167,7 +167,7 @@ Explanation: The directory can enter up to several layers. For example, if you h
    - View details:  https://alist.nn.ci/config/site.html#allow-indexing
    - Don't ask why V2 is not supported, because the V2 version is no longer maintained, so there is no follow-up
 
-- Why not directly open V2 V3 index construction: **https://github.com/alist-org/alist/discussions/2529**
+- Why not directly open V2 V3 index construction: **https://github.com/AlliotTech/openalist/discussions/2529**
 
 - After building an index, users without permissions can search for hidden file/folder solutions [click to view](meta.md#tips)
 

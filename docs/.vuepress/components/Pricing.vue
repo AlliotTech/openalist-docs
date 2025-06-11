@@ -16,7 +16,7 @@ let data = {
       ],
       btns: [{
         text: 'Download',
-        link: 'https://github.com/alist-org/alist/releases'
+        link: 'https://github.com/AlliotTech/openalist/releases'
       },
       {
         text: "Sponsor",
@@ -87,7 +87,7 @@ if (location.pathname.startsWith("/zh/")) {
         ],
         btns: [{
           text: '下载',
-          link: 'https://github.com/alist-org/alist/releases',
+          link: 'https://github.com/AlliotTech/openalist/releases',
         }, {
           text: "赞助",
           link: "/zh/guide/sponsor.html",

@@ -43,7 +43,7 @@ Whether to enable package download, default is true. 【Not recommended especial
 
 Any content you want which are automatically placed at the beginning of the head of the web page
 
-- How to configure PWA（Desktop、Android、IOS）：**[alist/issues/6724](https://github.com/alist-org/alist/issues/6724#issuecomment-2220251541)**
+- How to configure PWA（Desktop、Android、IOS）：**[alist/issues/6724](https://github.com/AlliotTech/openalist/issues/6724#issuecomment-2220251541)**
 
 <br/>
 
@@ -107,7 +107,7 @@ The scope of the three methods`Sign All` > `Meta Information Add Password` > Add
 
 ## **Forward direct link params**
 
-You can check it out yourself：**https://github.com/alist-org/alist/issues/3123**
+You can check it out yourself：**https://github.com/AlliotTech/openalist/issues/3123**
 
 <br/>
 

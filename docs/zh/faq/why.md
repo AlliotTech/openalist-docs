@@ -104,7 +104,7 @@ star: true
 
 ### **为什么提示 System error: SyntaxError: Invalid regular expression: /?/: Nothing to repeat**
 
-你的油猴答题插件冲突了，关闭了即可[**详情查看点击查看**](https://github.com/alist-org/alist/discussions/2399)
+你的油猴答题插件冲突了，关闭了即可[**详情查看点击查看**](https://github.com/AlliotTech/openalist/discussions/2399)
 
 ### **两个上传有什么区别?**
 
@@ -144,7 +144,7 @@ v2可以成功是因为v2会忽略空文件上传。
 
 （可以用海外的机器，如果非得用本机(或者国内的机器)搭建，哪你自己想办法让Alist吃到**proxy**就可以）
 
-可能有用的案例参考：**https://github.com/alist-org/alist/discussions/3026**
+可能有用的案例参考：**https://github.com/AlliotTech/openalist/discussions/3026**
 
 
 ### **打开 Alist 提示 System error: TypeError:n.replaceAll is not a function？**
@@ -221,7 +221,7 @@ v2可以成功是因为v2会忽略空文件上传。
 
 考虑使用 **musl** 版本作为替代，因为在您的平台上的 **glibc** 版本太低
 
-参考说明：[#2295](https://github.com/alist-org/alist/discussions/2295)，[#322](https://github.com/alist-org/alist/issues/322#issuecomment-1010601181)
+参考说明：[#2295](https://github.com/AlliotTech/openalist/discussions/2295)，[#322](https://github.com/AlliotTech/openalist/issues/322#issuecomment-1010601181)
 
 ### **现在文件后面多了个 sign 的参数是干嘛的？**
 
@@ -271,4 +271,4 @@ v2可以成功是因为v2会忽略空文件上传。
 
 ### **为什么文本文件乱码?**
 
-仅支持utf-8编码。相关: [#4131](https://github.com/alist-org/alist/issues/4131)
+仅支持utf-8编码。相关: [#4131](https://github.com/AlliotTech/openalist/issues/4131)

@@ -22,7 +22,7 @@ star: true
 
 ## **Root folder file_id**
 
-The root directory is root, and other directory IDs are unknown (~~It seems that a separate album cannot be mounted~~ It has not been resolved yet [**Reference**](https://github.com/alist-org/alist/discussions/3264#discussioncomment-4874536))
+The root directory is root, and other directory IDs are unknown (~~It seems that a separate album cannot be mounted~~ It has not been resolved yet [**Reference**](https://github.com/AlliotTech/openalist/discussions/3264#discussioncomment-4874536))
 
 
 
@@ -61,7 +61,7 @@ According to [above](https://alist.nn.ci/tool/google/request) obtained **client 
 We fill in **https://alist.nn.ci/tool/google/album** to get a single catalog ID for each of our Google Photos
 
 - Root file ID (that is, the album ID): default root, display all, if you only want to display a single album, you can fill in the album ID you want to display
-- After we fill in, there will also be an **`access_token`** below. This can also be filled in the Alist background refresh token option and used. The refresh token obtained at the beginning can be used for both of them- [Explanation]( https://github.com/alist-org/alist/discussions/3264#discussioncomment-5051171)
+- After we fill in, there will also be an **`access_token`** below. This can also be filled in the Alist background refresh token option and used. The refresh token obtained at the beginning can be used for both of them- [Explanation]( https://github.com/AlliotTech/openalist/discussions/3264#discussioncomment-5051171)
 
 #### **Fill in the example diagram**
 

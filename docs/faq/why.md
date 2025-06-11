@@ -102,7 +102,7 @@ Check whether the directory you run `./alist admin` and start alist is the same.
 
 ### **Why does it prompt System error: SyntaxError: Invalid regular expression: /?/: Nothing to repeat**
 
-Your Tampermonkey answering plug-in conflicts, just close it [**For details, click to view**](https://github.com/alist-org/alist/discussions/2399)
+Your Tampermonkey answering plug-in conflicts, just close it [**For details, click to view**](https://github.com/AlliotTech/openalist/discussions/2399)
 
 ### **What is the difference between the two uploads?**
 
@@ -142,7 +142,7 @@ Because **`Terabox`** restricts IP, if you access it from a non-overseas IP, you
 
 (Overseas machines can be used. If you have to use local machines (or domestic machines) to build, you can find a way to let Alist eat **proxy**)
 
-Cases where it might be useful: **https://github.com/alist-org/alist/discussions/3026**
+Cases where it might be useful: **https://github.com/AlliotTech/openalist/discussions/3026**
 
 
 ### **Open Alist prompt System error: TypeError: n.replaceAll is not a function?**
@@ -222,7 +222,7 @@ What is the use of creating this blank folder? It can be used in conjunction wit
 
 Consider using the **musl** version as an alternative due to the version of the **glibc** on your platform is too low
 
-Reference instructions：[#2295](https://github.com/alist-org/alist/discussions/2295)，[#322](https://github.com/alist-org/alist/issues/322#issuecomment-1010601181)
+Reference instructions：[#2295](https://github.com/AlliotTech/openalist/discussions/2295)，[#322](https://github.com/AlliotTech/openalist/issues/322#issuecomment-1010601181)
 
 ### **What is the extra sign parameter after the file now?**
 
@@ -274,4 +274,4 @@ Maybe other links are blocked, manually add the blocked domain name to the white
 
 ### **Why is the text file garbled?**
 
-Only utf-8 encoding is supported. See also: [#4131](https://github.com/alist-org/alist/issues/4131)
+Only utf-8 encoding is supported. See also: [#4131](https://github.com/AlliotTech/openalist/issues/4131)

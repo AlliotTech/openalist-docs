@@ -11,7 +11,7 @@ actions:
     type: primary
 
   - text: Github🌱
-    link: https://github.com/alist-org/alist
+    link: https://github.com/AlliotTech/openalist
 
 features:
   - title: 使用简单

@@ -27,15 +27,15 @@ star: true
 
 ## **Koyeb**
 
-https://github.com/alist-org/alist-koyeb
+https://github.com/AlliotTech/openalist-koyeb
 
 ## **Render**
 
-https://github.com/alist-org/alist-render
+https://github.com/AlliotTech/openalist-render
 
 ## **Heroku**
 
-https://github.com/alist-org/alist-heroku-postgres
+https://github.com/AlliotTech/openalist-heroku-postgres
 
 ## **Sealos**
 [![](https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg)](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dalist)

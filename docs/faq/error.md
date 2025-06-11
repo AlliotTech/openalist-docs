@@ -161,7 +161,7 @@ It is some error codes during the use of `AList`, and how to solve them (network
 
 <br/>
 
-<Badge text="A" type="info" vertical="middle" />：Your Tampermonkey answering plug-in conflicts, just close it [**For details, click to view**](https://github.com/alist-org/alist/discussions/2399)
+<Badge text="A" type="info" vertical="middle" />：Your Tampermonkey answering plug-in conflicts, just close it [**For details, click to view**](https://github.com/AlliotTech/openalist/discussions/2399)
 
 -----
 

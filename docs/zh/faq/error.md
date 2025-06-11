@@ -161,7 +161,7 @@ star: true
 
 <br/>
 
-<Badge text="A" type="info" vertical="middle" />：你的油猴答题插件冲突了，关闭了即可[**详情查看点击查看**](https://github.com/alist-org/alist/discussions/2399)
+<Badge text="A" type="info" vertical="middle" />：你的油猴答题插件冲突了，关闭了即可[**详情查看点击查看**](https://github.com/AlliotTech/openalist/discussions/2399)
 
 -----
 

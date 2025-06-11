@@ -39,7 +39,7 @@ fi
 #######################
 # GitHub settings
 GH_PROXY=''  # Can be modified if proxy is needed
-GH_DOWNLOAD_URL="${GH_PROXY}https://github.com/alist-org/alist/releases/latest/download"
+GH_DOWNLOAD_URL="${GH_PROXY}https://github.com/AlliotTech/openalist/releases/latest/download"
 #######################
 
 # Color configuration

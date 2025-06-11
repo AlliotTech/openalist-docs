@@ -24,7 +24,7 @@ It is to mount smb to Alist, instead of sharing Alist through smb, instead of sh
 
 Because there are no related equipment and services, it is impossible to test. You can test it yourself according to the method provided in the **`GitHub Discussions`** discussion
 
-**https://github.com/alist-org/alist/discussions/2215#discussioncomment-4104018**
+**https://github.com/AlliotTech/openalist/discussions/2215#discussioncomment-4104018**
 
 
 

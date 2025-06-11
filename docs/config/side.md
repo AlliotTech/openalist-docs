@@ -105,7 +105,7 @@ If you didn't find this feature, please update the version
 
    
 
-   4. **Show sidebar**：Add a list directory on the left side of the list like Windows Manager, which can jump to a deep folder faster [#5972](https://github.com/alist-org/alist/issues/5972)
+   4. **Show sidebar**：Add a list directory on the left side of the list like Windows Manager, which can jump to a deep folder faster [#5972](https://github.com/AlliotTech/openalist/issues/5972)
 
       
 
@@ -142,7 +142,7 @@ If you didn't find this feature, please update the version
       - With `Alt or Option` hold
         - `Ctrl`、`Alt` is Windows
         - `command`、`Option` is Mac
-      - If the button option does not take effect, please check whether the browser plugin conflict :point_right: [Case](https://github.com/alist-org/alist-web/pull/154#issuecomment-1972681627)
+      - If the button option does not take effect, please check whether the browser plugin conflict :point_right: [Case](https://github.com/AlliotTech/openalist-web/pull/154#issuecomment-1972681627)
 
       <i class="fa-solid fa-lightbulb fa-bounce" style="color: green;"></i> Tips：You can press the `Shift` key to select one, and then select one end. You can quickly select all the files in the middle
 
