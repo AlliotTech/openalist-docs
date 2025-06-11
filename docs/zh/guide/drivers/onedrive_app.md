@@ -151,7 +151,7 @@ https://entra.microsoft.com/TokenAuthorize?admin_consent=True&tenant={租户ID}#
 
 - 提示：**failed get objs: failed to list objs: Unable to retrieve user's mysite URL** 错误
 
-新建的 `OneDrive`用户账号不是实时生效，会延时生效等待几小时后试试看 [**案例**](https://github.com/alist-org/docs/discussions/189#discussioncomment-5928892)
+新建的 `OneDrive`用户账号不是实时生效，会延时生效等待几小时后试试看 [**案例**](https://github.com/AlliotTech/openalist-docs/discussions/189#discussioncomment-5928892)
 
 
 

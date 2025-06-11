@@ -147,7 +147,7 @@ because you didn't do it in step `4` <Badge text="grant xxx administrator consen
 
 - Tips：**failed get objs: failed to list objs: Unable to retrieve user's mysite URL** Error
 
-The newly created `OneDrive` user account does not take effect in real time, Delay takes effect, wait for a few hours and try again [**Case**](https://github.com/alist-org/docs/discussions/189#discussioncomment-5928892)
+The newly created `OneDrive` user account does not take effect in real time, Delay takes effect, wait for a few hours and try again [**Case**](https://github.com/AlliotTech/openalist-docs/discussions/189#discussioncomment-5928892)
 
 
 
