@@ -89,7 +89,7 @@ flowchart TB
 
 ## ~~**自定义破解ua**~~
 
-~~[**使用【本地代理 & Crack API】时候使用的UA**](https://github.com/alist-org/alist/issues/5602#issuecomment-1831188682)~~ 非官方接口已无法使用
+~~[**使用【本地代理 & Crack API】时候使用的UA**](https://github.com/AlliotTech/openalist/issues/5602#issuecomment-1831188682)~~ 非官方接口已无法使用
 
 <br/>
 

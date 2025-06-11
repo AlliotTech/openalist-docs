@@ -170,7 +170,7 @@ If the file name is encrypted, the encryption suffix `will not be used
 
 Advanced options, non -professionals, please do not modify it. The default is **`base64`**, but the options other than **`base64`** are not tested. If you encounter problems, you need to solve it yourself.
 
--Dy reference [#5109](https://github.com/alist-org/alist/issues/5109)，[#5080](https://github.com/alist-org/alist/issues/5080)
+-Dy reference [#5109](https://github.com/AlliotTech/openalist/issues/5109)，[#5080](https://github.com/AlliotTech/openalist/issues/5080)
 
 <br/>
 

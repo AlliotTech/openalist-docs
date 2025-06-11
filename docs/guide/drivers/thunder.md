@@ -266,7 +266,7 @@ The default is the full directory of the empty display, If you want to use a sub
 
 ### **Use video url**
 
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -384,7 +384,7 @@ In the request in the package `https://xluser-ssl.xunleix.com/v1/auth/signin`, y
 
 ### **Use video url**
 
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -470,7 +470,7 @@ Thunder  Browser Safe password
 ### **Use video url**
 
 - When `Use video url` is turned on, some types of files may not be accessible properly.
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -609,7 +609,7 @@ In the request in the package `https://xluser-ssl.xunlei.com/v1/auth/signin/toke
 ### **Use video url**
 
 - Open `Use video url` 可能会遇到部分类型的文件无法正常访问
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 

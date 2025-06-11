@@ -135,7 +135,7 @@ You don’t need to write, it will be automatically filled after filling in `Use
 You need to enable `Web Proxy` or` Webdav Native Proxy` to take effect
 
 - Currently only applicable to：`alias`、`139Yun`、`AList V3`
-  - Function Description：**https://github.com/alist-org/alist/pull/6496#issue-2309839607**
+  - Function Description：**https://github.com/AlliotTech/openalist/pull/6496#issue-2309839607**
 
 
 

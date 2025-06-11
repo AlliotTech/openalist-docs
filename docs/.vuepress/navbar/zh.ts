@@ -13,7 +13,7 @@ export const zh = navbar([
     children: [
       {
         text: "Discussion",
-        link: "https://github.com/alist-org/alist/discussions",
+        link: "https://github.com/AlliotTech/openalist/discussions",
       },
       { text: "Telegram", link: "https://t.me/alist_chat" },
       { text: "Discord", link: "https://discord.gg/F4ymsH4xv2" },
@@ -31,6 +31,6 @@ export const zh = navbar([
   {
     text: "Github",
     icon: "iconfont icon-github",
-    link: "https://github.com/alist-org/alist",
+    link: "https://github.com/AlliotTech/openalist",
   },
 ])

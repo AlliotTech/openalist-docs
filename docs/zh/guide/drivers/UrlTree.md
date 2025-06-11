@@ -19,7 +19,7 @@ star: true
 # 地址树
 
 :::tip
-**`地址树-UrlTree`** 是什么?  是用来挂载单个文件链接的，详情可以查看  **→→→[原需求说明](https://github.com/alist-org/alist/issues/3268)←←←**
+**`地址树-UrlTree`** 是什么?  是用来挂载单个文件链接的，详情可以查看  **→→→[原需求说明](https://github.com/AlliotTech/openalist/issues/3268)←←←**
 :::
 
 

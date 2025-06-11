@@ -19,7 +19,7 @@ star: true
 # UrlTree
 
 :::tip
-**`UrlTree`** What is it? It is used to mount a single file link. For details, you can check  **→→→[Original Requirements Description](https://github.com/alist-org/alist/issues/3268)←←←**
+**`UrlTree`** What is it? It is used to mount a single file link. For details, you can check  **→→→[Original Requirements Description](https://github.com/AlliotTech/openalist/issues/3268)←←←**
 :::
 
 

@@ -40,7 +40,7 @@ star: true
 
 ## **代理忽略头部**
 
-详情查看： **https://github.com/alist-org/alist/issues/2763**
+详情查看： **https://github.com/AlliotTech/openalist/issues/2763**
 
 ## **外部预览**
 

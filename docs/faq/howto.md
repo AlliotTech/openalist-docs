@@ -50,7 +50,7 @@ If you are the owner of the site, you can get the admin's info by run `./alist a
 Otherwise you can ask the owner to reset the password.
 
 :::tip
-You need to stop alist server first if the version of your alist is v3.9.0 or later as this pr: https://github.com/alist-org/alist/pull/3074
+You need to stop alist server first if the version of your alist is v3.9.0 or later as this pr: https://github.com/AlliotTech/openalist/pull/3074
 :::
 
 #### Lower than v3.25.0

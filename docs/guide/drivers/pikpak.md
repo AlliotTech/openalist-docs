@@ -67,7 +67,7 @@ It is not necessary to use it under normal circumstances, but you may need to us
 
 If you encounter other problems such as verification code
 
-- Refer to the `Update` section in **https://github.com/alist-org/alist/pull/7024**
+- Refer to the `Update` section in **https://github.com/AlliotTech/openalist/pull/7024**
 
 <br/>
 
@@ -81,7 +81,7 @@ After filling in the account and password, select <Badge text="Oauth2" type="inf
 
 If you encounter other problems such as verification code
 
-- Refer to the `Update` section in **https://github.com/alist-org/alist/pull/7024**
+- Refer to the `Update` section in **https://github.com/AlliotTech/openalist/pull/7024**
 
 <br/>
 
@@ -89,7 +89,7 @@ If you encounter other problems such as verification code
 
 ### **Disable media link**
 
-- **https://github.com/alist-org/alist/issues/4735**
+- **https://github.com/AlliotTech/openalist/issues/4735**
 
 <br/>
 
@@ -143,7 +143,7 @@ It is not necessary to use it under normal circumstances, but you may need to us
 
 If you encounter other problems such as verification code
 
-- Refer to the `Update` section in **https://github.com/alist-org/alist/pull/7024**
+- Refer to the `Update` section in **https://github.com/AlliotTech/openalist/pull/7024**
 
 <br/>
 

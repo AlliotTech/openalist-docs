@@ -92,7 +92,7 @@ typeof fetch !== "undefined" && getLimit()
     - `https://api.xhofe.top/alist/ali_open/token`
     - ![](/img/drivers/aliyun/aliyun_api.png)
 
-3.  查看详情：https://github.com/alist-org/alist/discussions/4572
+3.  查看详情：https://github.com/AlliotTech/openalist/discussions/4572
 
 4.  是否可以自己搭建授权OAuth验证API？
     - 需要使用自己申请的开发者帐号搭建

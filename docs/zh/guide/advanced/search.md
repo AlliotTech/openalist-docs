@@ -45,7 +45,7 @@ star: true
     - 如果是已经索引完毕，是因为开启了[自动索引](#自动更新索引)导致的，请关闭使用[自动索引](#自动更新索引)，如果还是这个问题请关闭后重新启动AList
     - 或者将数据库切换为MySQL
 
-- `meilisearch`：暂时未深度体验也不太了解具体差异，给予专业人士使用或者自己去查询一翻，[查看PR链接](https://github.com/alist-org/alist/pull/6060)，唯一知道的是得[自己搭建](https://www.meilisearch.com/docs/learn/getting_started/installation)使用，支持很多种方法，但是并没有守护进程等懒人操作、不支持系统[依赖低于`GLIBC_2.27`](https://github.com/meilisearch/meilisearch/issues/4022)以下的Linux系统、如果是本机搭建会自动识别，如果是其它设备可以修改配置文件的**meilisearch**字段内容
+- `meilisearch`：暂时未深度体验也不太了解具体差异，给予专业人士使用或者自己去查询一翻，[查看PR链接](https://github.com/AlliotTech/openalist/pull/6060)，唯一知道的是得[自己搭建](https://www.meilisearch.com/docs/learn/getting_started/installation)使用，支持很多种方法，但是并没有守护进程等懒人操作、不支持系统[依赖低于`GLIBC_2.27`](https://github.com/meilisearch/meilisearch/issues/4022)以下的Linux系统、如果是本机搭建会自动识别，如果是其它设备可以修改配置文件的**meilisearch**字段内容
   - 守护进程：如果要使用可以自己按照手动启动AList的办法新建一个守护进程
   - 下载地址：https://github.com/meilisearch/meilisearch/releases
     - `meilisearch`文档地址：https://www.meilisearch.com/docs/learn/getting_started/installation
@@ -172,7 +172,7 @@ star: true
   - 别问为什么V2不支持，因为V2版本已不再进行维护，故没有后续了
 
 
-- 为什么不直接开放V2 V3索引构建： **https://github.com/alist-org/alist/discussions/2529**
+- 为什么不直接开放V2 V3索引构建： **https://github.com/AlliotTech/openalist/discussions/2529**
 - 构建索引后，没有权限的用户可以搜索到隐藏的文件/文件夹解决方案[点击查看](meta.md#tips)
 
 <br/>

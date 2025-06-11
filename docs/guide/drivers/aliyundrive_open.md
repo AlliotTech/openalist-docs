@@ -92,7 +92,7 @@ typeof fetch !== "undefined" && getLimit()
    - `https://api.xhofe.top/alist/ali_open/token`
    - ![](/img/drivers/aliyun/aliyun_api.png)
 
-3. check the details：https://github.com/alist-org/alist/discussions/4572
+3. check the details：https://github.com/AlliotTech/openalist/discussions/4572
 
 4. Can I create an authorized OAUTH verification API by themselves?
     - You need to use your own developer account to build

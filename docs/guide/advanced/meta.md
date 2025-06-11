@@ -102,6 +102,6 @@ Apply this meta to sub folder of specific path
 
 :white_check_mark: If you want to hide the folder in a folder, create a new Yuan information alone, and select the folder we want to hide,，Hidden if you want to hide everything, write directly`.*`
 
-:x: You cannot directly fill in the meta information of the root directory `/`, and then fill in the folder we want to hide, the error case [View details](https://github.com/alist-org/alist/issues/4494)
+:x: You cannot directly fill in the meta information of the root directory `/`, and then fill in the folder we want to hide, the error case [View details](https://github.com/AlliotTech/openalist/issues/4494)
 
 ![](/img/advanced/hide-tips.png)

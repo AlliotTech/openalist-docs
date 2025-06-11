@@ -40,7 +40,7 @@ The extensions of the files you want to separately set to download through proxy
 
 ### **Proxy ignore headers**
 
-For details, please check:  **https://github.com/alist-org/alist/issues/2763**
+For details, please check:  **https://github.com/AlliotTech/openalist/issues/2763**
 
 ### **External previews**
 

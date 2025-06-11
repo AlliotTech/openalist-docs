@@ -44,7 +44,7 @@ Dropbox官网：https://www.dropbox.com/
 
 - 回调参数链接：**https://alist.nn.ci/tool/dropbox/callback**
 
-参考链接：[**点击查看**](https://github.com/alist-org/alist/commit/cfee536b96f38e5ba3f3575fab4e89f6c0e1bc5b#commitcomment-119688700)
+参考链接：[**点击查看**](https://github.com/AlliotTech/openalist/commit/cfee536b96f38e5ba3f3575fab4e89f6c0e1bc5b#commitcomment-119688700)
 
 
 

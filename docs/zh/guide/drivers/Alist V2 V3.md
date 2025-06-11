@@ -137,7 +137,7 @@ failed get objs: failed to list objs: request failed,code: 400, message: Key: 'L
 需要先启用 `Web代理` 或者 `Webdav本地代理` 才会生效
 
 - 目前仅适用于：`别名`、`中国移动云盘`、`AList V3`
-  - 具体功能说明：**https://github.com/alist-org/alist/pull/6496#issue-2309839607**
+  - 具体功能说明：**https://github.com/AlliotTech/openalist/pull/6496#issue-2309839607**
 
 
 

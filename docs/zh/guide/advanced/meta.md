@@ -108,6 +108,6 @@ star: true
 
 :white_check_mark:如果你要隐藏某个文件夹內的文件夹，要单独新建一条元信息，路径选择我们要隐藏的文件夹，隐藏如果你要隐藏所有直接写 `.*`即可
 
-:x: 不可以直接在选择根目录`/`的元信息內填写，然后隐藏位置填写我们要隐藏的文件夹，错误案例[查看详情](https://github.com/alist-org/alist/issues/4494)
+:x: 不可以直接在选择根目录`/`的元信息內填写，然后隐藏位置填写我们要隐藏的文件夹，错误案例[查看详情](https://github.com/AlliotTech/openalist/issues/4494)
 
 ![](/img/advanced/hide-tips.png)

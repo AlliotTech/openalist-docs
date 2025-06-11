@@ -206,7 +206,7 @@ CaptchaSign、Timestamp、DeviceID、ClientID、ClientVersion、PackageName、Us
 
 ### **使用视频URL**
 
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -283,7 +283,7 @@ flowchart TB
 
 ### **使用视频URL**
 
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -407,7 +407,7 @@ flowchart TB
 
 ### **使用视频URL**
 
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -493,7 +493,7 @@ flowchart TB
 ### **使用视频URL**
 
 - 开启 `视频视频URL` 可能会遇到部分类型的文件无法正常访问
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 
@@ -633,7 +633,7 @@ flowchart TB
 ### **使用视频URL**
 
 - 开启 `视频视频URL` 可能会遇到部分类型的文件无法正常访问
-- **https://github.com/alist-org/alist/pull/6464#issuecomment-2124306443**
+- **https://github.com/AlliotTech/openalist/pull/6464#issuecomment-2124306443**
 
 <br/>
 

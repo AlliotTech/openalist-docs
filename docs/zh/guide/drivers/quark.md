@@ -23,7 +23,7 @@ star: true
 **https://pan.quark.cn**
 
 :::danger
-由于夸克网盘限速问题，夸克网盘现在只能使用本地代理进行传输，[说明详见](https://github.com/alist-org/alist/issues/4318#issuecomment-1536214188)
+由于夸克网盘限速问题，夸克网盘现在只能使用本地代理进行传输，[说明详见](https://github.com/AlliotTech/openalist/issues/4318#issuecomment-1536214188)
 :::
 
 ## **夸克网盘**
@@ -87,7 +87,7 @@ flowchart TB
     click c1 "../drivers/common.html#webdav-策略"
 ```
 
-说明：[**alist/issues/4318**](https://github.com/alist-org/alist/issues/4318#issuecomment-1536214188)
+说明：[**alist/issues/4318**](https://github.com/AlliotTech/openalist/issues/4318#issuecomment-1536214188)
 
 <br/>
 
