@@ -18,7 +18,7 @@ star: true
 # 手动安装
 
 ## **获取 AList**
-打开 [AList Release](https://github.com/Xhofe/alist/releases) 下载待部署系统对应的文件。最新版的前端已经和后端打包好了，不用再下载前端文件了。
+打开 [AList Release](https://github.com/AlliotTech/openalist/releases) 下载待部署系统对应的文件。最新版的前端已经和后端打包好了，不用再下载前端文件了。
 
 
 

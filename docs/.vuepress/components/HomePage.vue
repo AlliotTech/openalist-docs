@@ -2,7 +2,6 @@
   <HopeHomePage>
     <template #top>
       <ClientOnly>
-        <HomeAds />
       </ClientOnly>
     </template>
   </HopeHomePage>

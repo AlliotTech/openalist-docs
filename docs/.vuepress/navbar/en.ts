@@ -25,7 +25,6 @@ export const en = navbar([
     children: [
       { text: "Demo", link: "https://alist.pages.dev/" },
       { text: "V2", link: "https://alist-doc.iots.vip" },
-      { text: "Desktop", link: "https://ad.iots.vip/" },
     ],
   },
   {
