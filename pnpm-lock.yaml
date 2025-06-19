@@ -3,10 +3,8 @@ lockfileVersion: 5.4
 specifiers:
   '@types/node': ^18.19.75
   '@vuepress/bundler-vite': 2.0.0-rc.19
-  '@vuepress/client': 2.0.0-rc.19
   '@vuepress/plugin-docsearch': 2.0.0-rc.74
   '@vuepress/plugin-watermark': 2.0.0-rc.27
-  '@vuepress/utils': 2.0.0-rc.19
   artplayer: ^5.2.2
   chart.js: ^4.4.7
   dashjs: ^4.7.4
@@ -30,9 +28,7 @@ dependencies:
 
 devDependencies:
   '@types/node': 18.19.112
-  '@vuepress/client': 2.0.0-rc.19
   '@vuepress/plugin-docsearch': 2.0.0-rc.74_5wl46wzlh6bge4pw2htpunguxm
-  '@vuepress/utils': 2.0.0-rc.19
   artplayer: 5.2.3
   chart.js: 4.5.0
   dashjs: 4.7.4

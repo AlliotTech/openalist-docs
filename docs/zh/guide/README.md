@@ -16,7 +16,6 @@ category:
 [![GitHub Discussions](https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936&style=flat-square)](https://github.com/AlliotTech/openalist/discussions)
 [![](https://img.shields.io/github/actions/workflow/status/Xhofe/alist/build.yml?style=flat-square)](https://github.com/AlliotTech/openalist/actions?query=workflow%3ABuild)
 [![](https://img.shields.io/github/downloads/Xhofe/alist/total?style=flat-square&color=%239F7AEA)](https://github.com/AlliotTech/openalist/releases)
-[![](https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square)](https://pay.xhofe.top)
 
 ## What's this
 

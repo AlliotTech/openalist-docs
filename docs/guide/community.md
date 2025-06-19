@@ -20,9 +20,6 @@ star: true
 
 # Community
 
-### Telegram Group​
-Click the link: https://t.me/alist_chat
-
 ### Discussions​
 Welcome to visit https://github.com/AlliotTech/openalist/discussions to discuss.
 

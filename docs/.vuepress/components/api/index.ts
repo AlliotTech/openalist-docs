@@ -1,6 +1,5 @@
 export const apis: Record<string, string> = {
   cf: "https://api.iots.vip",
-  cn: "https://api.xhofe.top",
   de: "http://api-my-api-5hw5ou-b810d8-80-75-218-107.traefik.me"
 };
 
