@@ -39,7 +39,7 @@ headerDepth: 5
 
 ## **获取刷新令牌**
 
-- **https://alist.nn.ci/zh/tool/115/token**
+- **https://alist.iots.vip/zh/tool/115/token**
 
 手机扫码后点击蓝色按钮即可获取 `refresh token`
 

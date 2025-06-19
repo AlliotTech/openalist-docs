@@ -24,10 +24,10 @@ star: true
 
 ### **如何对子目录进行反向代理？**
 
-使用 nginx 反向代理到 https://nn.ci/alist 的示例：
+使用 nginx 反向代理到 https://iots.vip/alist 的示例：
 
 - 正常安装
-- 将 [site_url](../config/configuration.md#site_url) 设置为 `https://nn.ci/alist` 或者仅`/alist`, 然后重启alist
+- 将 [site_url](../config/configuration.md#site_url) 设置为 `https://iots.vip/alist` 或者仅`/alist`, 然后重启alist
 - 在 nginx 中添加反向代理配置
 
 ```nginx

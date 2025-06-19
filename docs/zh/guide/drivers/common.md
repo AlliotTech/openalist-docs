@@ -166,7 +166,7 @@ flowchart LR
 
 Workers 代码可以在 https://github.com/AlliotTech/openalist-proxy/blob/main/alist-proxy.js 找到，实际使用时需要替换其中的这两个变量：
 
-- ADDRESS: 你的 AList 地址，必须加上协议头，后面不能跟 `/`。如 `https://pan.nn.ci`；
+- ADDRESS: 你的 AList 地址，必须加上协议头，后面不能跟 `/`。如 `https://pan.iots.vip`；
 - TOKEN: 在 AList 管理页面中进入“其他设置”得到；
 - WORKER_ADDRESS: 你的 Worker 地址，通常与 **下载代理URL** 相同。
 

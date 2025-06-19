@@ -7,7 +7,7 @@ export default hopeTheme(
     docsDir: "docs",
     logo: "/logo.svg",
     repo: "AlliotTech/openalist-docs",
-    hostname: "https://alist.nn.ci",
+    hostname: "https://alist.iots.vip",
     // 移动到 palette.scss 文件中
     // themeColor: {
     //   blue: "#2196f3",
@@ -18,7 +18,7 @@ export default hopeTheme(
 
     author: {
       name: "Andy Hsu",
-      url: "https://i.nn.ci",
+      url: "https://i.iots.vip",
     },
 
     pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],

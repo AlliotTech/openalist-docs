@@ -39,7 +39,7 @@ Please use your account in a standardized manner. Do not use it for distribution
 
 ## **Get refresh token**
 
-- **https://alist.nn.ci/tool/115/token**
+- **https://alist.iots.vip/tool/115/token**
 
 Scan the QR code with your phone and click the blue button to get `refresh token`
 

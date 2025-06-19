@@ -74,13 +74,13 @@ Lemon Squeezy：**https://app.lemonsqueezy.com/my-orders**
 
 输入在面包多购买的`key` 将不再使用的设备进行反激活踢下线
 
-- **https://ad.nn.ci/zh/usage**
+- **https://ad.iots.vip/zh/usage**
 
 ![](/img/desktop/mianbaoduo.png)
 
 @tab Lemon Squeezy
 
-在 **https://app.lemonsqueezy.com/my-orders** 登录购买[ :lemon:Lemon Squeezy](https://store.nn.ci/buy/51dca247-20df-4991-8104-54ca534bcc82) 时的邮箱，然后按照下图教程操作
+在 **https://app.lemonsqueezy.com/my-orders** 登录购买[ :lemon:Lemon Squeezy](https://store.iots.vip/buy/51dca247-20df-4991-8104-54ca534bcc82) 时的邮箱，然后按照下图教程操作
 
 ![](/img/desktop/lemonsqueezy.png)
 

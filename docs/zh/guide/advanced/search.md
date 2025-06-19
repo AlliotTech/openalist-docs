@@ -168,7 +168,7 @@ star: true
 - Alist **V2** 和 **v3** 类型的挂载默认不能构建
 - 如果你使用的是 **MySQL** 作为数据库，推荐你使用 **数据库(非全文搜索)**, [**点击查看详情看第二条**](#不同搜索索引之间的差异)
 - 在未来版本（**≥3.9.0版本**）V3用户可以选择是否允许别人挂载你的网盘然后进行索引 :no_entry:**`谨慎使用`**:no_entry:
-  - 详情查看：[https://alist.nn.ci/zh/config/site.html#允许索引](https://alist.nn.ci/zh/config/site.html#允许索引)
+  - 详情查看：[https://alist.iots.vip/zh/config/site.html#允许索引](https://alist.iots.vip/zh/config/site.html#允许索引)
   - 别问为什么V2不支持，因为V2版本已不再进行维护，故没有后续了
 
 

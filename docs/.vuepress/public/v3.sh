@@ -7,7 +7,7 @@
 # Last Updated: 2024-12-24
 #
 # Description: 
-#   A management script for Alist (https://alist.nn.ci)
+#   A management script for Alist (https://alist.iots.vip)
 #   Provides installation, update, uninstallation and management functions
 #
 # Requirements:

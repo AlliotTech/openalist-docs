@@ -26,7 +26,7 @@ star: true
 
 ### **获取 client_id, client_secret, refresh_token**
 
-参考 https://alist.nn.ci/tool/google/request
+参考 https://alist.iots.vip/tool/google/request
 
 
 
@@ -48,7 +48,7 @@ star: true
 
 
 
-**先打开 https://alist.nn.ci/tool/google/request   `1. 先点击Use own client然后再创建客户端(Create client)`**
+**先打开 https://alist.iots.vip/tool/google/request   `1. 先点击Use own client然后再创建客户端(Create client)`**
 
 ![Google](/img/drivers/google/Google-0.png)
 
@@ -72,7 +72,7 @@ star: true
 
  ==配置教程看下一张图== ，配置好后再回来看这张图~
 
-回调参数URL：**https://alist.nn.ci/tool/google/callback**
+回调参数URL：**https://alist.iots.vip/tool/google/callback**
 
 ![Google](/img/drivers/google/Google-4-1.png)
 
@@ -86,7 +86,7 @@ star: true
 
 获取到 `客户端ID`  和  `客户端秘钥 ` 后
 
-我们回到最开始 **https://alist.nn.ci/tool/google/request** 把 `客户端ID`  和  `客户端秘钥 ` 填进去
+我们回到最开始 **https://alist.iots.vip/tool/google/request** 把 `客户端ID`  和  `客户端秘钥 ` 填进去
 
  ==获取授权时记得勾选 **云盘** 和 **相册** 后面 选项==
 

@@ -4,7 +4,7 @@ import { computed, ref } from "vue"
 // import { api } from "./api";
 
 const proxy = "https://ghfast.top/"
-const res = await fetch(`https://ad-api.nn.ci/v0/app/latest`)
+const res = await fetch(`https://ad-api.iots.vip/v0/app/latest`)
 const data = await res.json()
 const version = data.version as string
 
@@ -85,7 +85,7 @@ function handleSelect(key) {
 }
 
 function openWebsite() {
-  window.open("https://ad.nn.ci/", "_blank")
+  window.open("https://ad.iots.vip/", "_blank")
 }
 </script>
 

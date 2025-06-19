@@ -88,7 +88,7 @@ const getSiteId = () => {
     <p><b>client_id: </b>{{ client_id }}</p>
     <p><b>client_secret: </b>{{ client_secret }}</p>
     <p><b>zone: </b>{{ zone }}</p>
-    <p><b>redirect_uri: </b>https://alist.nn.ci/tool/onedrive/callback</p>
+    <p><b>redirect_uri: </b>https://alist.iots.vip/tool/onedrive/callback</p>
     <NAlert :title="data.error1" type="error" v-if="data.error1 || data.errorMessage1">
       {{ data.errorMessage1 }}
     </NAlert>

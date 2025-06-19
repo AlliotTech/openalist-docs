@@ -162,7 +162,7 @@ star: true
 
 ### **site_url**
 
-你的网站 URL，比如 `https://pan.nn.ci`，这个地址会在程序中的某些地方使用，如果不设置这个字段，一些功能可能无法正常工作，比如
+你的网站 URL，比如 `https://pan.iots.vip`，这个地址会在程序中的某些地方使用，如果不设置这个字段，一些功能可能无法正常工作，比如
 
 - 本地存储的缩略图
 - 开启 web 代理后的预览
@@ -174,9 +174,9 @@ URL 链接结尾请勿携带 `/` ，参照如下示例，否则也将无法使�
 
 ```json
 # 正确写法：
-"site_url": "https://al.nn.ci",
+"site_url": "https://al.iots.vip",
 # 错误写法：
-"site_url": "https://al.nn.ci/",
+"site_url": "https://al.iots.vip/",
 ```
 
 <br/>

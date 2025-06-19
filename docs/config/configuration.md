@@ -162,7 +162,7 @@ By default AList reads the configuration from environment variables, set this fi
 
 ### **site_url**
 
-The address of your AList server, such as `https://pan.nn.ci`. This address is essential for some features, and thus thry may not work properly if unset:
+The address of your AList server, such as `https://pan.iots.vip`. This address is essential for some features, and thus thry may not work properly if unset:
 
 - thumbnailing `LocalStorage`
 - previewing site after setting web proxy
@@ -174,9 +174,9 @@ Do not include the slash \(`/`\) at the end of the address. For example:
 
 ```json
 # correct:
-"site_url": "https://al.nn.ci",
+"site_url": "https://al.iots.vip",
 # incorrect (exceptions occur):
-"site_url": "https://al.nn.ci/",
+"site_url": "https://al.iots.vip/",
 ```
 
 <br/>

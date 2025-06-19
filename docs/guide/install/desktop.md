@@ -74,14 +74,14 @@ Activation **`required`** Select :white_check_mark: **Lemon Squeezey**
 
 Enter the `key` purchased on mbd to deactivate the device that is no longer in use and kick it offline.
 
-- **https://ad.nn.ci/zh/usage**
+- **https://ad.iots.vip/zh/usage**
 
 ![](/img/desktop/mianbaoduo.png)
 
 @tab Lemon Squeezy
 
 Log in to **https://app.lemonsqueezy.com/my-orders**
-log in with the email address you used when you purchased [:lemon:Lemon Squeezy](https://store.nn.ci/buy/51dca247-20df-4991-8104-54ca534bcc82) and follow the instructions below.
+log in with the email address you used when you purchased [:lemon:Lemon Squeezy](https://store.iots.vip/buy/51dca247-20df-4991-8104-54ca534bcc82) and follow the instructions below.
 
 ![](/img/desktop/lemonsqueezy.png)
 

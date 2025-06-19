@@ -5,7 +5,7 @@ import { api } from '../api';
 
 const client_id = "iYCeC9g08h5vuP9UqvPHKKSVrKFXGa1v";
 const client_secret = "jXiFMOPVPCWlO2M5CwWQzffpNPaGTRBG";
-const callback_uri = "https://alist.nn.ci/tool/baidu/callback";
+const callback_uri = "https://alist.iots.vip/tool/baidu/callback";
 
 const url = new URL(window.location.href);
 const code = url.searchParams.get("code");

@@ -11,7 +11,7 @@ import {
 import { ref } from "vue"
 import { api } from "../api"
 
-const alist_redirect_uri = "https://alist.nn.ci/tool/aliyundrive/callback"
+const alist_redirect_uri = "https://alist.iots.vip/tool/aliyundrive/callback"
 const app_id = "76917ccccd4441c39457a04f6084fb2f"
 
 function goGet() {

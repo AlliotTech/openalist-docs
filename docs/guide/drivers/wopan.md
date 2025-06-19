@@ -32,7 +32,7 @@ Logging in on the mobile app does not pose any issue, as it can be done simultan
 
 :::
 
-Get the token tool address：**https://alist.nn.ci/tool/wopan/token.html**
+Get the token tool address：**https://alist.iots.vip/tool/wopan/token.html**
 
 - ![](/img/drivers/wopan/wopan-tool.png)
 

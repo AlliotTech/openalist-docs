@@ -38,7 +38,7 @@ The path of fodler you want to mount, same as join in address
 
 Select the vendor as sharepoint, and support the international version/21Vianet.
 
-For OneDrive/SharePoint, you can obtain the webdav root address through [this tool](https://tool.nn.ci/onedrive/webdav). If you want to mount the specified directory, you can join it later.
+For OneDrive/SharePoint, you can obtain the webdav root address through [this tool](https://tool.iots.vip/onedrive/webdav). If you want to mount the specified directory, you can join it later.
 
 The username is the OneDrive account email, and the password is the OneDrive account password.
 

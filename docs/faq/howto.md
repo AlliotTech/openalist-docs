@@ -24,9 +24,9 @@ Add a [meta](../guide/advanced/meta.md) record.
 
 ### **How to reverse proxy with sub directory?**
 
-An example of using nginx to reverse proxy to https://nn.ci/alist:
+An example of using nginx to reverse proxy to https://iots.vip/alist:
 - Normal installation
-- Set [site_url](../config/configuration.md#site_url) to `https://nn.ci/alist` or just `/alist` then restart alist
+- Set [site_url](../config/configuration.md#site_url) to `https://iots.vip/alist` or just `/alist` then restart alist
 - Add a reverse proxy record in nginx
 
 ```nginx

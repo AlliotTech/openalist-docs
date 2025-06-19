@@ -4,7 +4,7 @@ import { ref } from 'vue';
 
 const client_id = "a78d5a69054042fa936f6c77f9a0ae8b";
 const client_secret = "9c119bbb04b346d2a52aa64401936b2b";
-const callback_uri = "https://alist.nn.ci/tool/yandex/callback";
+const callback_uri = "https://alist.iots.vip/tool/yandex/callback";
 
 const url = new URL(window.location.href);
 const code = url.searchParams.get("code");

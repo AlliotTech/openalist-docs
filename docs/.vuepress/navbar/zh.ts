@@ -24,8 +24,8 @@ export const zh = navbar([
     icon: "iconfont icon-more",
     children: [
       { text: "演示", link: "https://alist.pages.dev/" },
-      { text: "V2", link: "https://alist-doc.nn.ci" },
-      { text: "桌面版", link: "https://ad.nn.ci/" },
+      { text: "V2", link: "https://alist-doc.iots.vip" },
+      { text: "桌面版", link: "https://ad.iots.vip/" },
     ],
   },
   {

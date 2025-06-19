@@ -46,7 +46,7 @@ let data = {
         },
         {
           text: 'Buy',
-          link: 'https://store.nn.ci/checkout/buy/51dca247-20df-4991-8104-54ca534bcc82',
+          link: 'https://store.iots.vip/checkout/buy/51dca247-20df-4991-8104-54ca534bcc82',
           type: 'success'
         }
       ]
@@ -64,7 +64,7 @@ let data = {
       btns: [
         {
           text: 'Contact',
-          link: 'mailto:i@nn.ci'
+          link: 'mailto:i@iots.vip'
         }
       ]
     }
@@ -115,7 +115,7 @@ if (location.pathname.startsWith("/zh/")) {
           },
           {
             text: '购买',
-            link: 'https://r.nn.ci/ad',
+            link: 'https://r.iots.vip/ad',
             type: 'success'
           }
         ]
@@ -132,7 +132,7 @@ if (location.pathname.startsWith("/zh/")) {
         ],
         btns: [{
           text: '联系',
-          link: 'mailto:i@nn.ci'
+          link: 'mailto:i@iots.vip'
         }]
       }
     ],

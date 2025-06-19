@@ -83,12 +83,12 @@ typeof fetch !== "undefined" && getLimit()
 
 :::danger About Alibaba Cloud OAUTH verification API cannot be connected
 
-1. Since the original API `https://api.nn.ci` is blocked by SNI, resulting in the case that cannot be connected, two new APIs are provided for use:
-   - `https://api-cf.nn.ci` (A layer of Cloudflare)
+1. Since the original API `https://api.iots.vip` is blocked by SNI, resulting in the case that cannot be connected, two new APIs are provided for use:
+   - `https://api-cf.iots.vip` (A layer of Cloudflare)
    - `https://api.xhofe.top` (LiaoNing multi -line， Sponsored by [Asia Cloud](https://www.asiayun.com/aff/QQCOOQKZ))
 
 2. You need to replace the OAUTH token link in the ALIYUNDRIVE_OPEN configuration to
-   - `https://api-cf.nn.ci/alist/ali_open/token`
+   - `https://api-cf.iots.vip/alist/ali_open/token`
    - `https://api.xhofe.top/alist/ali_open/token`
    - ![](/img/drivers/aliyun/aliyun_api.png)
 
@@ -105,7 +105,7 @@ typeof fetch !== "undefined" && getLimit()
 
 ## **refresh token**
 
-Go to：**https://alist.nn.ci/tool/aliyundrive/request**
+Go to：**https://alist.iots.vip/tool/aliyundrive/request**
 
 #### **Get example graph**
 

@@ -25,7 +25,7 @@ Dropbox Official：https://www.dropbox.com/
 
 ## **Get refresh token**
 
-Go to：**https://alist.nn.ci/tool/dropbox/request.html**
+Go to：**https://alist.iots.vip/tool/dropbox/request.html**
 
 - There are two ways, one is provided directly using AList, and the other is to create a new application by yourself
   - The method of getting as follows (Recommend the first type^{right}^Because the AList provided can no longer create new users)
@@ -43,7 +43,7 @@ Go to：**https://alist.nn.ci/tool/dropbox/request.html**
 
 - The method is shown in the right side of the example above(Create an application link：**https://www.dropbox.com/developers/apps**)
 
-- Redirect URLs：**https://alist.nn.ci/tool/dropbox/callback**
+- Redirect URLs：**https://alist.iots.vip/tool/dropbox/callback**
 
 Reference link: [**Click to view**](https://github.com/AlliotTech/openalist/commit/cfee536b96f38e5ba3f3575fab4e89f6c0e1bc5b#commitcomment-119688700)
 

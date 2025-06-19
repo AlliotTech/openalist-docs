@@ -15,7 +15,7 @@ const rclone = {
   redirect_uri: 'http://127.0.0.1:53682/',
 }
 
-const alist_redirect_uri = "https://alist.nn.ci/tool/google/callback"
+const alist_redirect_uri = "https://alist.iots.vip/tool/google/callback"
 
 const data = reactive({
   client_id: "",

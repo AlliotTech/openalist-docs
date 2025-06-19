@@ -81,7 +81,7 @@ category:
 
 ## 演示
 
-- https://al.nn.ci
+- https://al.iots.vip
 
 ## 特别赞助
 

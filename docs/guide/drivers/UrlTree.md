@@ -217,7 +217,7 @@ folder22:
 <Badge text="5" type="info" vertical="middle" />All integrated example usages include conventional, classified, rename, and marked file size
 
 ```
-https://jsd.nn.ci/gh/alist-org/alist/README.md
+https://jsd.iots.vip/gh/alist-org/alist/README.md
 document
   Readme.md:https://pic.rmb.bdstatic.com/bjh/说明.md
   Doc:

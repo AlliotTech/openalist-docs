@@ -26,7 +26,4 @@ Click the link: https://t.me/alist_chat
 ### Discussions​
 Welcome to visit https://github.com/AlliotTech/openalist/discussions to discuss.
 
-### Discord
-Click the link: https://discord.gg/F4ymsH4xv2
-
 Welcome to join the community, before asking questions, please make sure you can't find the answer here. Read "How To Ask Questions The Smart Way" before asking questions, maybe it can be faster of solving the problem.

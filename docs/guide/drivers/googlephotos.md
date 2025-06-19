@@ -28,7 +28,7 @@ The root directory is root, and other directory IDs are unknown (~~It seems that
 
 ## **Get client_id, client_secret**
 
-Get the tool https://alist.nn.ci/tool/google/request
+Get the tool https://alist.iots.vip/tool/google/request
 
 How to get your own `client_id (client ID) client_secret (client secret key)` Go to [**Google Drive**](./googledrive.md) which article
 
@@ -56,9 +56,9 @@ Remember to enable **`Photos Library API`**
 
 ## **Mount a single album directory**
 
-According to [above](https://alist.nn.ci/tool/google/request) obtained **client ID** and **secret key** and **refresh_token**
+According to [above](https://alist.iots.vip/tool/google/request) obtained **client ID** and **secret key** and **refresh_token**
 
-We fill in **https://alist.nn.ci/tool/google/album** to get a single catalog ID for each of our Google Photos
+We fill in **https://alist.iots.vip/tool/google/album** to get a single catalog ID for each of our Google Photos
 
 - Root file ID (that is, the album ID): default root, display all, if you only want to display a single album, you can fill in the album ID you want to display
 - After we fill in, there will also be an **`access_token`** below. This can also be filled in the Alist background refresh token option and used. The refresh token obtained at the beginning can be used for both of them- [Explanation]( https://github.com/AlliotTech/openalist/discussions/3264#discussioncomment-5051171)

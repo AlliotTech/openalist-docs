@@ -218,7 +218,7 @@ folder22:
 <Badge text="5" type="info" vertical="middle" />全部整合起来的举例用法，有常规的，有分类，有重命名，有标注文件大小
 
 ```
-https://jsd.nn.ci/gh/alist-org/alist/README.md
+https://jsd.iots.vip/gh/alist-org/alist/README.md
 文档:
   Readme.md:https://pic.rmb.bdstatic.com/bjh/说明.md
   Doc:

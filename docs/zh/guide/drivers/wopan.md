@@ -33,7 +33,7 @@ AList挂载联通云盘使用的是Web端
 
 :::
 
-获取令牌工具地址：**https://alist.nn.ci/tool/wopan/token.html**
+获取令牌工具地址：**https://alist.iots.vip/tool/wopan/token.html**
 
 - ![](/img/drivers/wopan/wopan-tool.png)
 
