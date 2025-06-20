@@ -20,16 +20,9 @@ star: true
 
 # 社区
 
-## Telegram 群组
-
-使用此链接: https://t.me/alist_chat
-
 ## Discussions​
 
 欢迎至 https://github.com/AlliotTech/openalist/discussions 参与项目讨论.
 
-## Discord
-
-使用此链接: https://discord.gg/F4ymsH4xv2
 
 欢迎加入社区，在开始提问之前，请确保您在此处找不到答案。并且Google/百度也不能解决问题时再提问。 提问前请先阅读“提问的智慧”，也许这样可以更快地帮助你解决问题。同时减轻各位的负担

@@ -19,7 +19,7 @@ star: true
 ---
 
 ## **Get Alist**
-Open [AList Release](https://github.com/Xhofe/alist/releases) to download the files corresponding to the system to be deployed. The latest version of the front-end has been packaged with the back-end, so there is no need to download the front-end files again.
+Open [AList Release](https://github.com/AlliotTech/openalist/releases) to download the files corresponding to the system to be deployed. The latest version of the front-end has been packaged with the back-end, so there is no need to download the front-end files again.
 
 
 

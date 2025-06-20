@@ -85,21 +85,15 @@ typeof fetch !== "undefined" && getLimit()
 
 1. Since the original API `https://api.iots.vip` is blocked by SNI, resulting in the case that cannot be connected, two new APIs are provided for use:
    - `https://api-cf.iots.vip` (A layer of Cloudflare)
-   - `https://api.xhofe.top` (LiaoNing multi -line， Sponsored by [Asia Cloud](https://www.asiayun.com/aff/QQCOOQKZ))
 
 2. You need to replace the OAUTH token link in the ALIYUNDRIVE_OPEN configuration to
    - `https://api-cf.iots.vip/alist/ali_open/token`
-   - `https://api.xhofe.top/alist/ali_open/token`
    - ![](/img/drivers/aliyun/aliyun_api.png)
 
 3. check the details：https://github.com/AlliotTech/openalist/discussions/4572
 
 4. Can I create an authorized OAUTH verification API by themselves?
     - You need to use your own developer account to build
-
-
-
-:::
 
 
 

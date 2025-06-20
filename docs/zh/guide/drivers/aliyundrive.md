@@ -34,7 +34,7 @@ star: true
 
 ### **刷新令牌**
 
-按照这个 [issue](https://github.com/Xhofe/alist/issues/88) 在手机上捕获/查找日志（`/data/media/0/Android/data/com.alicloud.databox/files/logs/trace/`）。 或者您可以点击：
+按照这个 [issue](https://github.com/AlliotTech/openalist/issues/88) 在手机上捕获/查找日志（`/data/media/0/Android/data/com.alicloud.databox/files/logs/trace/`）。 或者您可以点击：
 
 <script setup lang="ts">
 import { ref } from "vue";

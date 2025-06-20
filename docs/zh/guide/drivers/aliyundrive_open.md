@@ -79,27 +79,6 @@ typeof fetch !== "undefined" && getLimit()
 
 7. 禁止使用阿里云盘搭建==包括但不限于== **`图床、软件床`** 和 **`视频外链到视频网站播放`** 等分发服务以及一些没有提到的不规范使用的方式，若违反被`冻结/封号`后果自负，并无法解除。
 
-:::
-
-
-:::danger 关于阿里云open的OAuth验证API无法连接
-
-1.  由于原api `https://api.iots.vip`被sni阻断，导致国内无法连接的情况，故提供两个新的api供使用：
-    - `https://api-cf.iots.vip` (套了一层cloudflare)
-    - `https://api.xhofe.top` (辽宁多线， 由[亚洲云](https://www.asiayun.com/aff/QQCOOQKZ)赞助)
-2.  需要将`aliyundrive_open`后台配置中的`Oauth令牌链接`更换为
-    - `https://api-cf.iots.vip/alist/ali_open/token`
-    - `https://api.xhofe.top/alist/ali_open/token`
-    - ![](/img/drivers/aliyun/aliyun_api.png)
-
-3.  查看详情：https://github.com/AlliotTech/openalist/discussions/4572
-
-4.  是否可以自己搭建授权OAuth验证API？
-    - 需要使用自己申请的开发者帐号搭建
-
-
-:::
-
 
 
 
