@@ -63,13 +63,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "AList Docs",
-      description: "Documentation for alist v3",
+      title: "OpenAList Docs",
+      description: "Documentation for OpenAList v3",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "AList文档",
-      description: "AList v3的文档",
+      title: "OpenAList文档",
+      description: "OpenAList v3的文档",
     },
   },
   markdown: {
