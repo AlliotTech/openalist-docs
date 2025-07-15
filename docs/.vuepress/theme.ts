@@ -18,7 +18,7 @@ export default hopeTheme(
 
     author: {
       name: "Andy Hsu",
-      url: "https://i.iots.vip",
+      url: "https://alist.iots.vip",
     },
 
     pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
