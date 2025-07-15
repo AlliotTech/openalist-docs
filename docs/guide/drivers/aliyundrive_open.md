@@ -32,12 +32,20 @@ import { api } from "@Api"
 const minutes = ref<string|number>("unknown")
 const max = ref<string|number>("unknown")
 const getLimit = async ()=>{
-  const resp = await fetch(`${api()}/alist/ali_open/limit`)
-  const res = await resp.json()
-  minutes.value = res.minutes
-  max.value = res.max
+  try {
+    const resp = await fetch(`${api()}/alist/ali_open/limit`)
+    const res = await resp.json()
+    minutes.value = res.minutes
+    max.value = res.max
+  } catch (error) {
+    // Silently fail during build or when API is not available
+    console.debug('Failed to fetch rate limit info:', error)
+  }
 }
-typeof fetch !== "undefined" && getLimit()
+// Only run in browser environment, not during SSR/build
+if (typeof window !== "undefined" && typeof fetch !== "undefined") {
+  getLimit()
+}
 </script>
 ::: info Aliyundrive VIP
 
