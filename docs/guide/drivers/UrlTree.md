@@ -50,7 +50,7 @@ Don't look at the writing, it looks difficult and long-winded, but in fact, you 
 
 ``` 
 http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
-https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
+https://raw.githubusercontent.com/AlliotTech/openalist/main/README_cn.md
 ```
 
 ##### **output**
@@ -72,18 +72,18 @@ https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
 http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
 folder:
   http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
-  https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
+  https://raw.githubusercontent.com/AlliotTech/openalist/main/README_cn.md
 ```
 
 ``` 
 http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
 folder:
   http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
-  https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
+  https://raw.githubusercontent.com/AlliotTech/openalist/main/README_cn.md
 http://pic.rmb.bdstatic.com/bjh/a66923e9bfefd03c2998ee998d3b55e7.jpeg
 folde2r:
   http://pic.rmb.bdstatic.com/bjh/e919290bf3b8396817d369cedf33b8cd.jpeg
-  https://raw.githubusercontent.com/alist-org/alist/main/CONTRIBUTING.md
+  https://raw.githubusercontent.com/AlliotTech/openalist/main/CONTRIBUTING.md
 ```
 
 ##### **output**
@@ -120,14 +120,14 @@ Format: `new name.suffix:file size:link`
 
 ```
 new namejpeg:1024:http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
-new name2.md:2048:https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
+new name2.md:2048:https://raw.githubusercontent.com/AlliotTech/openalist/main/README_cn.md
 ```
 
 The size of the file is not written, and it can also be renamed
 
 ```
 new name.jpeg:1024:http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
-new name2.md:2048:https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
+new name2.md:2048:https://raw.githubusercontent.com/AlliotTech/openalist/main/README_cn.md
 ```
 
 
@@ -141,7 +141,7 @@ new name2.md:2048:https://raw.githubusercontent.com/alist-org/alist/main/README_
 ```
 folder:
   http://pic.rmb.bdstatic.com/bjh/aff9c9c8817d943d6857a73188958d45.jpeg
-  https://raw.githubusercontent.com/alist-org/alist/main/README_cn.md
+  https://raw.githubusercontent.com/AlliotTech/openalist/main/README_cn.md
 ```
 
 - If you have written the first layer and want to put another one in the first folder, then put a layer under this folder, the writing method is as follows, very simple
@@ -217,7 +217,7 @@ folder22:
 <Badge text="5" type="info" vertical="middle" />All integrated example usages include conventional, classified, rename, and marked file size
 
 ```
-https://jsd.iots.vip/gh/alist-org/alist/README.md
+https://jsd.iots.vip/gh/AlliotTech/openalist/README.md
 document
   Readme.md:https://pic.rmb.bdstatic.com/bjh/说明.md
   Doc:

@@ -63,7 +63,7 @@ Generate address：**https://www.febbox.com/open/clients**
 
 ### **Things to note**
 
-- The upload function is currently unavailable [**alist-org/alist/issues/7293**](https://github.com/AlliotTech/openalist/issues/7293#issuecomment-2395776474)
+- The upload function is currently unavailable [**AlliotTech/openalist/issues/7293**](https://github.com/AlliotTech/openalist/issues/7293#issuecomment-2395776474)
 
 <br/>
 

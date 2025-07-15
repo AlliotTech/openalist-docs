@@ -66,7 +66,7 @@ FebBox：https://www.febbox.com
 
 ### **注意事项**
 
-- 目前上传功能不可用 [**alist-org/alist/issues/7293**](https://github.com/AlliotTech/openalist/issues/7293#issuecomment-2395776474)
+- 目前上传功能不可用 [**AlliotTech/openalist/issues/7293**](https://github.com/AlliotTech/openalist/issues/7293#issuecomment-2395776474)
 
 <br/>
 
