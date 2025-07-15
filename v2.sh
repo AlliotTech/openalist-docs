@@ -44,10 +44,10 @@ if [ "$(id -u)" != "0" ]; then
     echo -e "\r\n${RED_COLOR}出错了，请使用 root 权限重试！${RES}\r\n" 1>&2
     exit 1;
     elif [ "$ARCH" == "UNKNOWN" ];then
-    echo -e "\r\n${RED_COLOR}出错了${RES}，一键安装目前仅支持 x86_64和arm64 平台。\r\n其它平台请参考：${GREEN_COLOR}https://alist-doc.nn.ci${RES}\r\n"
+    echo -e "\r\n${RED_COLOR}出错了${RES}，一键安装目前仅支持 x86_64和arm64 平台。\r\n其它平台请参考：${GREEN_COLOR}https://alist-doc.iots.vip${RES}\r\n"
     exit 1;
     elif ! command -v systemctl >/dev/null 2>&1; then
-    echo -e "\r\n${RED_COLOR}出错了${RES}，无法确定你当前的 Linux 发行版。\r\n建议手动安装：${GREEN_COLOR}https://alist-doc.nn.ci${RES}\r\n"
+    echo -e "\r\n${RED_COLOR}出错了${RES}，无法确定你当前的 Linux 发行版。\r\n建议手动安装：${GREEN_COLOR}https://alist-doc.iots.vip${RES}\r\n"
     exit 1;
 else
     if command -v netstat >/dev/null 2>&1; then
@@ -84,7 +84,7 @@ CHECK() {
 INSTALL() {
     # 下载 Alist 程序
     echo -e "\r\n${GREEN_COLOR}下载 Alist v2.6.4 ...${RES}"
-    curl -L ${GH_PROXY}https://github.com/Xhofe/alist/releases/download/v2.6.4/alist-linux-musl-$ARCH.tar.gz -o /tmp/alist.tar.gz $CURL_BAR
+    curl -L ${GH_PROXY}https://github.com/AlliotTech/openalist/releases/download/v2.6.4/alist-linux-musl-$ARCH.tar.gz -o /tmp/alist.tar.gz $CURL_BAR
     tar zxf /tmp/alist.tar.gz -C $INSTALL_PATH/
     
     if [ -f $INSTALL_PATH/alist-linux-musl-$ARCH ];then
@@ -174,7 +174,7 @@ UPDATE() {
         # 备份 alist 二进制文件，供下载更新失败回退
         cp $INSTALL_PATH/alist /tmp/alist.bak
         echo -e "${GREEN_COLOR}下载 Alist v2.6.4 ...${RES}"
-        curl -L ${GH_PROXY}https://github.com/Xhofe/alist/releases/download/v2.6.4/alist-linux-musl-$ARCH.tar.gz -o /tmp/alist.tar.gz $CURL_BAR
+        curl -L ${GH_PROXY}https://github.com/AlliotTech/openalist/releases/download/v2.6.4/alist-linux-musl-$ARCH.tar.gz -o /tmp/alist.tar.gz $CURL_BAR
         tar zxf /tmp/alist.tar.gz -C $INSTALL_PATH/
         if [ -f $INSTALL_PATH/alist-linux-musl-$ARCH ];then
             mv $INSTALL_PATH/alist-linux-musl-$ARCH $INSTALL_PATH/alist
