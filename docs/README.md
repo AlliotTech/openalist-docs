@@ -3,7 +3,7 @@ home: true
 icon: iconfont icon-home
 title: Home
 heroImage: /logo.svg
-heroText: ALIST
+heroText: OpenAList
 tagline: 🗂️ A file list program that supports multiple storage, powered by Gin and Solidjs.
 actions:
   - text: Get started💡
@@ -16,15 +16,15 @@ actions:
 features:
   - title: Easy to Use
     icon: iconfont icon-light
-    details: Alist was designed from the ground up to be easily installed and it can be used on all platforms.
+    details: OpenAList was designed from the ground up to be easily installed and it can be used on all platforms.
 
   - title: Multiple storage
     icon: iconfont icon-storage
-    details: Alist supports multiple storage providers, including local storage, Aliyundrive, Onedrive, Google Drive, etc., and is easily expand.
+    details: OpenAList supports multiple storage providers, including local storage, Aliyundrive, Onedrive, Google Drive, etc., and is easily expand.
 
   - title: Support WebDAV
     icon: iconfont icon-waline
-    details: Alist supports all storage WebDAV, which is a standard for accessing files on.
+    details: OpenAList supports all storage WebDAV, which is a standard for accessing files on.
 
   - title: Dark Mode
     icon: iconfont icon-contrast
@@ -44,11 +44,11 @@ features:
 
   - title: single sign-on
     icon: font-icon icon fa-solid fa-repeat-1
-    details: Use single sign-on to quickly log in to AList
+    details: Use single sign-on to quickly log in to OpenAList
 
-  - title: Automatic registration of AList account
+  - title: Automatic registration of OpenAList account
     icon: fa-solid fa-file-user
-    details: Use single sign-on to automatically register as an AList account to quickly register
+    details: Use single sign-on to automatically register as an OpenAList account to quickly register
 
   - title: offline download
     icon: fa-solid fa-folder-arrow-down

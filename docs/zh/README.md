@@ -3,7 +3,7 @@ home: true
 icon: iconfont icon-home
 title: Home
 heroImage: /logo.svg
-heroText: AList
+heroText: OpenAList
 tagline: 🗂️ 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
 actions:
   - text: 开始💡
@@ -16,15 +16,15 @@ actions:
 features:
   - title: 使用简单
     icon: iconfont icon-light
-    details: AList 从一开始就设计为易于安装，并且可以在所有平台上使用。
+    details: OpenAList 从一开始就设计为易于安装，并且可以在所有平台上使用。
 
   - title: 多种存储
     icon: iconfont icon-storage
-    details: AList 支持多个存储提供商，包括本地存储、阿里云盘、OneDrive、Google Drive 等，且易于拓展。
+    details: OpenAList 支持多个存储提供商，包括本地存储、阿里云盘、OneDrive、Google Drive 等，且易于拓展。
 
   - title: 支持 WebDAV
     icon: iconfont icon-waline
-    details: AList 支持所有 WebDAV 存储，这是一种用于访问文件的标准。
+    details: OpenAList 支持所有 WebDAV 存储，这是一种用于访问文件的标准。
 
   - title: 黑暗模式
     icon: iconfont icon-contrast
@@ -44,7 +44,7 @@ features:
 
   - title: 单点登录
     icon: font-icon icon fa-solid fa-repeat-1
-    details: 使用单点登录快速登录AList
+    details: 使用单点登录快速登录OpenAList
 
   - title: 自动注册AList帐号
     icon: fa-solid fa-file-user
