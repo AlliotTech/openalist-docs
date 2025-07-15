@@ -167,7 +167,6 @@ failed get objs: failed to list objs: request failed,code: 400, message: Key: 'L
 
 （这是让对方给你的，一般没有人会交出自己的token给外人）
 
-- V2获取方式：前往V2文档进行查看 --> **https://alist-doc.iots.vip/docs/driver/alist#token**
 - V3获取方式：后台 --> 设置 --> 其他 --> **`令牌`**
 
 ::::

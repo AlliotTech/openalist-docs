@@ -165,7 +165,6 @@ The Alist path you want to mount has a meta information password set
 
 (This is for the other party to give you, generally no one will hand over their token to outsiders)
 
-- How to get V2: Go to the V2 document to view --> **https://alist-doc.iots.vip/docs/driver/alist#token**
 - How to get V3: Background --> Settings --> Others --> **`Token`**
 
 ::::
