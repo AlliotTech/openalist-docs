@@ -78,16 +78,7 @@ category:
 
 一般问题请到[讨论论坛](https://github.com/AlliotTech/openalist/discussions) ，**issue仅针对错误报告和功能请求。**
 
-## 演示
-
-- https://al.iots.vip
-
-## 特别赞助
-
-- [VidHub](https://zh.okaapps.com/product/1659622164?ref=alist) - 苹果生态下优雅的网盘视频播放器，iPhone，iPad，Mac，Apple TV全平台支持。
-- [亚洲云](https://www.asiayun.com/aff/QQCOOQKZ) - 高防服务器|服务器租用|福州高防|广东电信|香港服务器|美国服务器|海外服务器 - 国内靠谱的企业级云计算服务提供商 (国内API服务器赞助)
-- [找资源](http://zhaoziyuan2.cc/) - 阿里云盘资源搜索引擎
 
 ## 许可
 
-`AList` 是在 AGPL-3.0 许可下许可的开源软件。
+`OpenAList` 是在 AGPL-3.0 许可下许可的开源软件。
