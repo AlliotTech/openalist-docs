@@ -69,21 +69,6 @@ if (location.pathname.startsWith("/zh/")) {
           secondary: false,
           type: "error"
         }]
-      },
-      {
-        title: '技术支持',
-        price: '按需付费',
-        features: [
-          '所有开源功能',
-          '针对具体案例分析解答',
-          '协助部署和调试',
-          '根据具体需求进行二次开发',
-          '...'
-        ],
-        btns: [{
-          text: '联系',
-          link: 'mailto:i@iots.vip'
-        }]
       }
     ],
   };

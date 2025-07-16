@@ -10,15 +10,6 @@ export default defineUserConfig({
   base: "/",
   head: [
     [
-      "script",
-      {
-        type: "text/javascript",
-        charset: "UTF-8",
-        src: "https://cdn.wwads.cn/js/makemoney.js",
-        // async: true,
-      },
-    ],
-    [
       "link",
       {
         type: "text/css",
@@ -41,19 +32,8 @@ export default defineUserConfig({
     ],
     [
       "script",
-      {},
-      `var _hmt = _hmt || [];
-      (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?6c8a68035d2804b5cfeafe6d96df4c75";
-        var s = document.getElementsByTagName("script")[0]; 
-        s.parentNode.insertBefore(hm, s);
-      })();`,
-    ],
-    [
-      "script",
       {
-        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6488351372249466",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5453400863646747",
         async: true,
         crossorigin: "anonymous",
       },
