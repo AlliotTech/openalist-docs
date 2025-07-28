@@ -210,7 +210,7 @@ INSTALL() {
   echo -e "\r\n${GREEN_COLOR}下载 Alist ...${RES}"
   
   # 使用拼接后的 GitHub 下载地址
-  if ! download_file "${GH_DOWNLOAD_URL}/alist-linux-musl-$ARCH.tar.gz" "/tmp/alist.tar.gz"; then
+  if ! download_file "${GH_DOWNLOAD_URL}/alist-linux-$ARCH.tar.gz" "/tmp/alist.tar.gz"; then
     echo -e "${RED_COLOR}下载失败！${RES}"
     exit 1
   fi
@@ -347,7 +347,7 @@ UPDATE() {
 
     # 下载新版本
     echo -e "${GREEN_COLOR}下载 Alist ...${RES}"
-    if ! download_file "${GH_DOWNLOAD_URL}/alist-linux-musl-$ARCH.tar.gz" "/tmp/alist.tar.gz"; then
+    if ! download_file "${GH_DOWNLOAD_URL}/alist-linux-$ARCH.tar.gz" "/tmp/alist.tar.gz"; then
         echo -e "${RED_COLOR}下载失败，更新终止${RES}"
         echo -e "${GREEN_COLOR}正在恢复之前的版本...${RES}"
         mv /tmp/alist.bak $INSTALL_PATH/alist
