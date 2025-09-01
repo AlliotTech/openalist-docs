@@ -33,12 +33,12 @@ GitHub API 速率限制：未经身份验证的请求的主要速率限制为每
 ##### 输入
 
 ``` 
-alistGo/alist
+AlliotTech/openalist
 ```
 
 与下面的写法效果一致：
 ``` 
-/:alistGo/alist
+/:AlliotTech/openalist
 ```
 
 @tab 2
@@ -48,15 +48,15 @@ alistGo/alist
 ##### 输入
 
 ``` 
-/alist-gh:alistGo/alist
-/alist-web-gh:alistGo/alist-web
+/alist-gh:AlliotTech/openalist
+/alist-web-gh:AlliotTech/openalist-web
 ```
 
 最前面的 `/` 可以省略：
 
 ``` 
-alist-gh:alistGo/alist
-alist-web-gh:alistGo/alist-web
+alist-gh:AlliotTech/openalist
+alist-web-gh:AlliotTech/openalist-web
 ```
 
 :::

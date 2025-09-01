@@ -248,4 +248,4 @@ If you really do n’t understand, you can test it yourself and then install the
 
 ### **Download concurrency、Download part size**
 
-You need to enable the proxy to take effect, for details, see:**https://github.com/AlistGo/alist/pull/7829**
+You need to enable the proxy to take effect, for details, see:**https://github.com/AlliotTech/openalist/pull/7829**

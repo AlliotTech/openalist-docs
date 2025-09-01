@@ -306,7 +306,7 @@ In PostgreSQL, the `ssl_mode` parameter is used to specify how the client uses S
 
 Documentation link：https://www.meilisearch.com/docs
 
-Reference Links：https://github.com/AlistGo/alist/discussions/6830
+Reference Links：https://github.com/AlliotTech/openalist/discussions/6830
 
 
 
@@ -330,7 +330,7 @@ The configuration of scheme. Set this field if using HTTPS.
     "key_file": "data\\key.key",    // Path of key file
     "unix_file": "",        // Unix socket file path to listen on, default empty, if you want to use unix socket, set it to non empty
     "unix_file_perm": "",   // Unix socket file permission, set to the appropriate permissions
-    "enable_h2c": false		// Support HTTP/2 Cleartext (H2C) protocol for alist's http service. The cleartext HTTP/2 protocol supports nginx's grpc_pass after it is enabled - https://github.com/AlistGo/alist/pull/8294
+    "enable_h2c": false		// Support HTTP/2 Cleartext (H2C) protocol for alist's http service. The cleartext HTTP/2 protocol supports nginx's grpc_pass after it is enabled - https://github.com/AlliotTech/openalist/pull/8294
   },
 ```
 
@@ -493,11 +493,11 @@ Configuration for background task threads.
 A new **transmission** configuration path is added to the background configuration: `/@manage/settings/traffic`
 
 - Supports limiting the number of threads and transmission uplink and downlink rates of ==6 tasks==
-- **https://github.com/AlistGo/alist/pull/7948**
+- **https://github.com/AlliotTech/openalist/pull/7948**
 
 Operation principle: If `settings/traffic` does not have a thread number field (first run or just upgraded from an old version), `settings/traffic` will be initialized with the value of the config configuration file. If `settings/traffic` has a value, the thread configuration information of config will be ignored
 
-- **https://github.com/AlistGo/alist/pull/7948#issuecomment-2775174617**
+- **https://github.com/AlliotTech/openalist/pull/7948#issuecomment-2775174617**
 
 - Summary: For newly installed or upgraded versions, the values will be read from the configuration file to initialize the `traffic` configuration information. Subsequent modifications to the thread only need to be modified in the background.
 

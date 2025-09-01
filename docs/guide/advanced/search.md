@@ -49,7 +49,7 @@ star: true
   - Daemon：If you want to use it, you can create a new daemon process in the same way as manually starting AList.
   - Download  Url：https://github.com/meilisearch/meilisearch/releases
     - `meilisearch` Docs Url：https://www.meilisearch.com/docs/learn/getting_started/installation
-    - Reference Links：https://github.com/AlistGo/alist/discussions/6830
+    - Reference Links：https://github.com/AlliotTech/openalist/discussions/6830
 
 <br/>
 

@@ -105,8 +105,8 @@ interface {
 
 部署和使用 `OnlyOffice` 参考：
 
-- https://github.com/AlistGo/alist/discussions/3255
-- https://github.com/AlistGo/alist/discussions/8271
+- https://github.com/AlliotTech/openalist/discussions/3255
+- https://github.com/AlliotTech/openalist/discussions/8271
 
 :::
 

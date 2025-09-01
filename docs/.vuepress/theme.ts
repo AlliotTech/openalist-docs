@@ -105,7 +105,7 @@ export default hopeTheme(
          * Using Giscus 评论
          */
         provider: "Giscus",
-        repo: "AlistGo/docs",
+        repo: "AlliotTech/openalist-docs",
         repoId: "R_kgDOHmaM-A",
         category: "Announcements",
         categoryId: "DIC_kwDOHmaM-M4CRRXl",

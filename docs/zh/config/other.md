@@ -45,7 +45,7 @@ star: true
 
 - 否则，文件会下载至用户配置的临时目录中，然后转移至目标目录
   - 例如在 `GoogleDrive`存储驱动前端页面，调用 `Pikpak offline-download`，会先下载到后台设置的Pikpak临时文件夹目录，等Pikpak离线下载完毕后，再从Pikpak转移到`GoogleDrive`文件里面
-- **https://github.com/AlistGo/alist/pull/7716**
+- **https://github.com/AlliotTech/openalist/pull/7716**
 
 <br/>
 

@@ -65,7 +65,7 @@ Key: 'Storage.MountPath' Error:Field validation for 'MountPath' failed on the 'r
 
 在存储设置中将`备注(Remark)`的第一行设置为：**ref:/挂载路径**
 
-- https://github.com/AlistGo/alist/pull/7805
+- https://github.com/AlliotTech/openalist/pull/7805
 
 ![](/img/drivers/ref_token.png)
 
@@ -91,7 +91,7 @@ Key: 'Storage.MountPath' Error:Field validation for 'MountPath' failed on the 'r
 
 - 例如索引选项中的`忽略索引`，启用`禁用索引`后不需要再去配置了，这样也更方便一些
 
-[alist#7730](https://github.com/AlistGo/alist/pull/7730)、[alist-web#219](https://github.com/AlistGo/alist-web/pull/219)
+[alist#7730](https://github.com/AlliotTech/openalist/pull/7730)、[alist-web#219](https://github.com/AlistGo/alist-web/pull/219)
 
 <br/>
 

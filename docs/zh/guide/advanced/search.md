@@ -49,7 +49,7 @@ star: true
   - 守护进程：如果要使用可以自己按照手动启动AList的办法新建一个守护进程
   - 下载地址：https://github.com/meilisearch/meilisearch/releases
     - `meilisearch`文档地址：https://www.meilisearch.com/docs/learn/getting_started/installation
-    - 参考链接：https://github.com/AlistGo/alist/discussions/6830
+    - 参考链接：https://github.com/AlliotTech/openalist/discussions/6830
 
 <br/>
 

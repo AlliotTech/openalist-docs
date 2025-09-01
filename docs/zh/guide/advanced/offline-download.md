@@ -91,7 +91,7 @@ AList版本 ≥ 3.42.0 的查看 [允许所有云盘调用其他云盘的离线�
 
 
 2. 预设值配置查看地址：(链接也可能会根据后续优化会有位置变动)
-   - **https://github.com/AlistGo/alist/blob/main/internal/offline_download/qbit/qbit.go#L28**
+   - **https://github.com/AlliotTech/openalist/blob/main/internal/offline_download/qbit/qbit.go#L28**
 
    - ```{ *** Value: "http://admin:adminadmin@localhost:8080/", Type: conf.TypeString, *** } ```
 

@@ -29,7 +29,7 @@ star: true
 After opening, you can perform `MakeDir`, `Move`, `Rename`, `Copy`, `Remove`, `PutURL` on this driver
 
 - When a user attempts to use SimpleHttp for offline downloading in a driver that implements this interface, the offline download tool will not be invoked. Instead, the `PutURL` method of the driver will be called.
-- **https://github.com/AlistGo/alist/pull/7779**
+- **https://github.com/AlliotTech/openalist/pull/7779**
 
 <br/>
 

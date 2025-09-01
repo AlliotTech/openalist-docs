@@ -29,7 +29,7 @@ star: true
 打开后可以对此驱动进行`新建文件夹`、`移动`、`重命名`、`复制`、`删除`、`PutURL`
 
 - 当用户在实现该接口的驱动中尝试使用SimpleHttp进行离线下载时，将不会调用离线下载工具。 相反，将调用驱动程序的 `PutURL` 方法。
-- **https://github.com/AlistGo/alist/pull/7779**
+- **https://github.com/AlliotTech/openalist/pull/7779**
 
 <br/>
 

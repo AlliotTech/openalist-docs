@@ -93,7 +93,7 @@ According to [source code](https://github.com/AlliotTech/openalist/blob/main/int
 
 2. Default value configuration view address: (The link may also change position based on subsequent optimization)
 
-   - **https://github.com/AlistGo/alist/blob/main/internal/offline_download/qbit/qbit.go#L28**
+   - **https://github.com/AlliotTech/openalist/blob/main/internal/offline_download/qbit/qbit.go#L28**
 
 
    - ```{ *** Value: "http://admin:adminadmin@localhost:8080/", Type: conf.TypeString, *** } ```

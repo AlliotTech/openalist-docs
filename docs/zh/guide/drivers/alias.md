@@ -255,4 +255,4 @@ a/5.bin     b/6.css             alias/5.bin
 
 ### **下载并发、下载分片大小**
 
-需要开启代理才会生效，详情查看：**https://github.com/AlistGo/alist/pull/7829**
+需要开启代理才会生效，详情查看：**https://github.com/AlliotTech/openalist/pull/7829**
