@@ -40,7 +40,7 @@ The extensions of the files you want to separately set to download through proxy
 
 ### **Proxy ignore headers**
 
-For details, please check:  **https://github.com/AlliotTech/openalist/issues/2763**
+For details, please check:  **https://github.com/AlistGo/alist/issues/2763**
 
 ### **External previews**
 
@@ -104,8 +104,8 @@ If you want to use self-deployed onlyoffice to preview office files, you can add
 ```
 Deploying and using `OnlyOffice` Reference:
 
-- https://github.com/AlliotTech/openalist/discussions/3255
-- https://github.com/AlliotTech/openalist/discussions/8271
+- https://github.com/AlistGo/alist/discussions/3255
+- https://github.com/AlistGo/alist/discussions/8271
 
 :::
 

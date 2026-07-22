@@ -40,7 +40,7 @@ star: true
 
 ## **代理忽略头部**
 
-详情查看： **https://github.com/AlliotTech/openalist/issues/2763**
+详情查看： **https://github.com/AlistGo/alist/issues/2763**
 
 ## **外部预览**
 
@@ -105,8 +105,8 @@ interface {
 
 部署和使用 `OnlyOffice` 参考：
 
-- https://github.com/AlliotTech/openalist/discussions/3255
-- https://github.com/AlliotTech/openalist/discussions/8271
+- https://github.com/AlistGo/alist/discussions/3255
+- https://github.com/AlistGo/alist/discussions/8271
 
 :::
 

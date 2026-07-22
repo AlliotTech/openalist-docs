@@ -105,7 +105,7 @@ star: true
 
    
    
-   4. **显示侧边栏**：就像Windows管理器那样列表左侧添加一个列表目录，可以更快捷地跳转到深层文件夹 [#5972](https://github.com/AlliotTech/openalist/issues/5972)
+   4. **显示侧边栏**：就像Windows管理器那样列表左侧添加一个列表目录，可以更快捷地跳转到深层文件夹 [#5972](https://github.com/AlistGo/alist/issues/5972)
    
       
    

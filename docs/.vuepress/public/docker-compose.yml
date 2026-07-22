@@ -1,7 +1,7 @@
 version: '3.3'
 services:
     alist:
-        image: 'xhofe/alist:latest'
+        image: 'alliot/alist:latest'
         container_name: alist
         volumes:
             - './:/opt/alist/data'

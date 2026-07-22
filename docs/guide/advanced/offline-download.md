@@ -100,7 +100,7 @@ According to [source code](https://github.com/AlliotTech/openalist/blob/main/int
 
 
 3.  Use **`qBittorrent`** to offline `.torrent` type files
-   - Although you cannot directly add offline `.torrent` type files, you can save the country with a curve Reference: [View method](https://github.com/AlliotTech/openalist/issues/2459#issuecomment-1354870010)
+   - Although you cannot directly add offline `.torrent` type files, you can save the country with a curve Reference: [View method](https://github.com/AlistGo/alist/issues/2459#issuecomment-1354870010)
 
 
 4.  You can configure it yourself not to delete after the download is complete, but to do seeding, the default is `0`, and it will be deleted immediately after uploading

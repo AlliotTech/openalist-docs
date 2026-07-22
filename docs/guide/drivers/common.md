@@ -65,7 +65,7 @@ Currently only the following network disks are supported:
 
 In the storage settings, set the first line of `Remark` to: **ref:/mount path**
 
-- https://github.com/AlliotTech/openalist/pull/7805
+- https://github.com/AlistGo/alist/pull/7805
 
 ![](/img/drivers/ref_token.png)
 
@@ -91,7 +91,7 @@ Allow users to disable storage indexing.
 
 - For example, if you enable `Ignore Index` in the index options, you no longer need to configure it after enabling `Disable Index`, which is more convenient.
 
-[alist#7730](https://github.com/AlliotTech/openalist/pull/7730)、[alist-web#219](https://github.com/AlistGo/alist-web/pull/219)
+[alist#7730](https://github.com/AlistGo/alist/pull/7730)、[alist-web#219](https://github.com/AlistGo/alist-web/pull/219)
 
 <br/>
 

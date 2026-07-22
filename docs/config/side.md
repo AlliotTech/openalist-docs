@@ -105,7 +105,7 @@ If you didn't find this feature, please update the version
 
    
 
-   4. **Show sidebar**：Add a list directory on the left side of the list like Windows Manager, which can jump to a deep folder faster [#5972](https://github.com/AlliotTech/openalist/issues/5972)
+   4. **Show sidebar**：Add a list directory on the left side of the list like Windows Manager, which can jump to a deep folder faster [#5972](https://github.com/AlistGo/alist/issues/5972)
 
       
 

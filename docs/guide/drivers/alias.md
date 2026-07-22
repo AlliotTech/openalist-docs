@@ -186,7 +186,7 @@ This is because Windows is case-insensitive, video and Video will be considered 
 You need to enable `Web Proxy` or` Webdav Native Proxy` to take effect
 
 - Currently only applicable to：`alias`、`139Yun`、`AList V3`
-  - Function Description：**https://github.com/AlliotTech/openalist/pull/6496#issue-2309839607**
+  - Function Description：**https://github.com/AlistGo/alist/pull/6496#issue-2309839607**
 
 <br/>
 
@@ -248,4 +248,4 @@ If you really do n’t understand, you can test it yourself and then install the
 
 ### **Download concurrency、Download part size**
 
-You need to enable the proxy to take effect, for details, see:**https://github.com/AlliotTech/openalist/pull/7829**
+You need to enable the proxy to take effect, for details, see:**https://github.com/AlistGo/alist/pull/7829**

@@ -97,7 +97,7 @@ AList版本 ≥ 3.42.0 的查看 [允许所有云盘调用其他云盘的离线�
 
 
 3.  使用 **`qBittorrent`** 来离线 `.torrent` 类型的文件
-   - 虽然不可以直接添加离线`.torrent` 类型的文件，可以曲线救国 参考:[查看方法](https://github.com/AlliotTech/openalist/issues/2459#issuecomment-1354870010)
+   - 虽然不可以直接添加离线`.torrent` 类型的文件，可以曲线救国 参考:[查看方法](https://github.com/AlistGo/alist/issues/2459#issuecomment-1354870010)
 
 4.  可以自行配置下载完毕后不进行删除，进行做种，默认为`0`会上传完毕后立即删除
    - 修改位置：**Alist后台** --> **设置** --> **Qbittorrent 做种时间** 选项，设置你自己需要配置的时间单位是`分钟`，到了设置的做种时间后会自动删除

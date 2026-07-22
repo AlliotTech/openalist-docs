@@ -242,7 +242,7 @@ CDN 地址，如果要使用 CDN，可以设置该字段，`$version` 会被替�
     "db_file": "data\\data.db",     //数据库位置,sqlite3使用的
     "table_prefix": "x_",           //数据库表名前缀
     "ssl_mode": "",     //来控制SSL握手时的加密选项,参数自行搜索，或者查看下方来自ChatGPT的回答
-    "dsn": ""           // https://github.com/AlliotTech/openalist/pull/6031
+    "dsn": ""           // https://github.com/AlistGo/alist/pull/6031
   },
 ```
 
@@ -311,7 +311,7 @@ MySQL 5.x 和 8.x 也不一样。如果使用服务商提供的免费/收费数�
 
 文档链接：https://www.meilisearch.com/docs
 
-参考链接：https://github.com/AlliotTech/openalist/discussions/6830
+参考链接：https://github.com/AlistGo/alist/discussions/6830
 
 
 
@@ -335,7 +335,7 @@ MySQL 5.x 和 8.x 也不一样。如果使用服务商提供的免费/收费数�
     "key_file": "data\\key.key",    // 证书密钥文件路径
     "unix_file": "",        // Unix 监听套接字文件路径,默认的空的,如果你想使用 Unix socket,将其设置为非空
     "unix_file_perm": "",   // Unix 监听套接字文件，设置为合适的权限
-    "enable_h2c": false		// 为 alist 的 http 服务支持 HTTP/2 Cleartext (H2C) 协议。明文的 HTTP/2 协议,开启后支持 nginx 的 grpc_pass - https://github.com/AlliotTech/openalist/pull/8294
+    "enable_h2c": false		// 为 alist 的 http 服务支持 HTTP/2 Cleartext (H2C) 协议。明文的 HTTP/2 协议,开启后支持 nginx 的 grpc_pass - https://github.com/AlistGo/alist/pull/8294
   },
 ```
 
@@ -367,8 +367,8 @@ temp_dir 为 alist 独占的临时文件夹，为避免程序中断产生垃圾�
 
 如果设置此项，优先使用本前端文件进行渲染，支持使用其它前端文件，后端继续使用原版应用
 
-- https://github.com/AlliotTech/openalist/issues/5531
-- https://github.com/AlliotTech/openalist/discussions/6110
+- https://github.com/AlistGo/alist/issues/5531
+- https://github.com/AlistGo/alist/discussions/6110
 
 将前端文件(dist)上传到应用的`data`文件夹下，然后按照下方这样填写，缺点就是如果每次更新都得需要手动更新一次
 
@@ -501,11 +501,11 @@ temp_dir 为 alist 独占的临时文件夹，为避免程序中断产生垃圾�
 在后台配置中新增一个 **传输** 配置 路径：`/@manage/settings/traffic` 
 
 - 支持限制 ==6 种任务==的线程数和传输上下行速率
-- **https://github.com/AlliotTech/openalist/pull/7948**
+- **https://github.com/AlistGo/alist/pull/7948**
 
 运行原理：如果 `settings/traffic` 没有线程数字段（第一次运行或者刚从旧版本升级），会用config配置文件的值初始化 `settings/traffic`，如果 `settings/traffic` 有值就会忽略config的线程配置信息
 
-- **https://github.com/AlliotTech/openalist/pull/7948#issuecomment-2775174617**
+- **https://github.com/AlistGo/alist/pull/7948#issuecomment-2775174617**
 
 - 总结：新安装或者新升级的版本，会先从配置文件读取数值来初始化 `传输` 配置信息，后续修改线程只需要在后台修改就可以
 

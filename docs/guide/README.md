@@ -12,10 +12,10 @@ category:
 New versions (V3 and later) are not compatible with V2, so we recommend that you full reinstall Alist if you are upgrading from V2.
 :::
 
-[![](https://img.shields.io/github/release/Xhofe/alist?style=flat-square)](https://github.com/AlliotTech/openalist/releases/latest)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936&style=flat-square)](https://github.com/AlliotTech/openalist/discussions)
-[![](https://img.shields.io/github/actions/workflow/status/Xhofe/alist/build.yml?style=flat-square)](https://github.com/AlliotTech/openalist/actions?query=workflow%3ABuild)
-[![](https://img.shields.io/github/downloads/Xhofe/alist/total?style=flat-square&color=%239F7AEA)](https://github.com/AlliotTech/openalist/releases)
+[![](https://img.shields.io/github/release/AlliotTech/openalist?style=flat-square)](https://github.com/AlliotTech/openalist/releases/latest)
+[![GitHub Discussions](https://img.shields.io/github/discussions/AlliotTech/openalist?color=%23ED8936&style=flat-square)](https://github.com/AlliotTech/openalist/discussions)
+[![](https://img.shields.io/github/actions/workflow/status/AlliotTech/openalist/build.yml?style=flat-square)](https://github.com/AlliotTech/openalist/actions?query=workflow%3ABuild)
+[![](https://img.shields.io/github/downloads/AlliotTech/openalist/total?style=flat-square&color=%239F7AEA)](https://github.com/AlliotTech/openalist/releases)
 
 ### What's this
 

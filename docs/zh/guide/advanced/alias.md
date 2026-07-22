@@ -193,7 +193,7 @@ star: true
 需要先启用 `Web代理` 或者 `Webdav本地代理` 才会生效
 
 - 目前仅适用于：`别名`、`中国移动云盘`、`AList V3`
-  - 具体功能说明：**https://github.com/AlliotTech/openalist/pull/6496#issue-2309839607**
+  - 具体功能说明：**https://github.com/AlistGo/alist/pull/6496#issue-2309839607**
 
 <br/>
 
@@ -255,4 +255,4 @@ a/5.bin     b/6.css             alias/5.bin
 
 ### **下载并发、下载分片大小**
 
-需要开启代理才会生效，详情查看：**https://github.com/AlliotTech/openalist/pull/7829**
+需要开启代理才会生效，详情查看：**https://github.com/AlistGo/alist/pull/7829**

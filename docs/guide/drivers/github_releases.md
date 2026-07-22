@@ -33,12 +33,12 @@ The simplest usage is to directly write `owner/repository`, only one can be fill
 ##### Input
 
 ``` 
-alistGo/alist
+AlliotTech/openalist
 ```
 
 The effect is the same as the following:
 ``` 
-/:alistGo/alist
+/:AlliotTech/openalist
 ```
 
 @tab 2
@@ -48,15 +48,15 @@ Mount to a subdirectory, you can mount multiple repositories
 ##### Input
 
 ``` 
-/alist-gh:alistGo/alist
-/alist-web-gh:alistGo/alist-web
+/alist-gh:AlliotTech/openalist
+/alist-web-gh:AlliotTech/openalist-web
 ```
 
 The leading `/` can be omitted:
 
 ``` 
-alist-gh:alistGo/alist
-alist-web-gh:alistGo/alist-web
+alist-gh:AlliotTech/openalist
+alist-web-gh:AlliotTech/openalist-web
 ```
 
 :::
@@ -175,4 +175,3 @@ flowchart TB
     click b1 "../drivers/common.html#webdav-policy"
     click c1 "../drivers/common.html#webdav-policy"
 ```
-
